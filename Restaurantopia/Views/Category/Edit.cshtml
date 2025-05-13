@@ -1,0 +1,80 @@
+﻿@model Restaurantopia.Entities.Models.Category
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "_HomeLayout";
+}
+
+<section class="book_section layout_padding">
+    <div class="cont">
+        <div class="heading_container">
+            <h2>Edit Category</h2>
+        </div>
+
+        <div class="row">
+            <div class="col-md-4">
+
+                <div class="form_container">
+                <form asp-action="Edit">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                    <div class="form-floating mb-3">
+                        <label asp-for="CategoryName" class="styled-label">Category Name</label>
+                        <input asp-for="CategoryName" class="form-control" />
+                        <span asp-validation-for="CategoryName" class="text-danger"></span>
+                    </div>
+
+                    <div class="btn_box d-flex justify-content-between">
+                        <button type="submit" class="btn btn-warning">Save</button>
+                        <button type="button" class="btn btn-secondary" onclick="location.href='@Url.Action("ListOfCategories")'">
+                            Back To Menu
+                        </button>
+                    </div>
+                </form>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</section>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync ( "_ValidationScriptsPartial" );
+    }
+}
+
+<style>
+    .styled-label {
+        font-size: 1.25rem; /* Increase font size */
+        font-weight: 600; /* Make text bold */
+        color: #333; /* Darker text color for better readability */
+        text-transform: uppercase; /* Make the label text uppercase */
+        letter-spacing: 0.05rem; /* Add some spacing between letters */
+        margin-bottom: 10px; /* Add space below the label */
+        display: inline-block; /* Ensures label behaves like a block element */
+    }
+    /* Form container styles */
+    .cont {
+        padding: 30px;
+        background-color: #f9f9f9;
+        border-radius: 8px;
+        box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+    }
+    /* Spacing and alignment for rows */
+    .row {
+        margin-top: 20px;
+    }
+
+    /* Form control styling */
+    .form-control {
+        padding: 12px;
+        font-size: 1rem;
+        border-radius: 5px;
+        border: 1px solid #ccc;
+    }
+
+    .btn_box {
+        margin-top: 20px; /* Add some spacing above the button box */
+    }
+</style>

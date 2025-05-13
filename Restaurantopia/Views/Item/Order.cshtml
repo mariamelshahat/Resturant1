@@ -1,0 +1,97 @@
+﻿@model Restaurantopia.Entities.Models.Item
+
+@{
+    ViewData["Title"] = "Order";
+    Layout = "_OrderPage";
+}
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" />
+
+<style>
+    /* Button styles with hover animations */
+    .btn {
+        position: relative;
+        overflow: hidden;
+        transition: all 0.3s ease;
+    }
+
+    .btn-success i {
+        margin-right: 5px; /* Space between the icon and the text */
+    }
+
+    .btn:hover {
+        transform: scale(1.05); /* Slightly increase button size on hover */
+    }
+
+    .btn-success::before {
+        content: "\f07a"; /* Font Awesome shopping-cart icon */
+        font-family: FontAwesome;
+        margin-right: 8px;
+    }
+
+    .btn-secondary::before {
+        content: "\f060"; /* Font Awesome arrow-left icon */
+        font-family: FontAwesome;
+        margin-right: 8px;
+    }
+</style>
+
+<div class="heading-section ftco-animate mb-5 text-center">
+    <span class="subheading">Order Your Item</span>
+</div>
+<hr />
+
+<div class="row justify-content-center">
+    <div class="col-md-8">
+        <!-- Card for Item Order -->
+        <div class="card h-100 shadow-sm">
+            <div class="row no-gutters">
+                <div class="col-md-4">
+                    <!-- Dynamically display the item image -->
+                    <img src="@Url.Content(Model.ItemImage ?? "~/images/default-placeholder.png")"
+                         alt="Item Image"
+                         class="card-img"
+                         style="object-fit: cover; height: 100%;"
+                         onerror="this.onerror=null; this.src='~/Images/default-placeholder.png';" />
+                </div>
+                <div class="col-md-8">
+                    <div class="card-body">
+                        <h5 class="card-title">@Model.ItemTitle</h5>
+                        <p class="card-text">@Model.ItemDescription</p>
+                        <p class="card-text">
+                            <strong>Price:</strong> $@String.Format( "{0:0.00}", Model.ItemPrice )
+                        </p>
+
+                        <form asp-action="Order" method="post">
+                            @Html.HiddenFor( model => model.Id ) <!-- Include the item ID -->
+                            @Html.HiddenFor( model => model.ItemPrice ) <!-- Include the item price -->
+                            @Html.HiddenFor( model => model.ItemTitle ) <!-- Include the item title -->
+                            @Html.HiddenFor( model => model.ItemDescription ) <!-- Include the item description -->
+                            @Html.HiddenFor( model => model.ItemImage ) <!-- Include the item image -->
+                            @Html.HiddenFor( model => model.CategoryId ) <!-- Include the category ID -->
+
+                            <div class="form-group">
+                                <label asp-for="Quantity" class="control-label">Quantity</label>
+                                <input asp-for="Quantity" class="form-control" placeholder="Enter quantity" />
+                                <span asp-validation-for="Quantity" class="text-danger"></span>
+                            </div>
+                            <!-- Submit Button -->
+                            <!-- Submit Button -->
+                            <div class="form-group mt-4 text-center">
+                                <button type="submit" class="btn btn-success mt-2">
+                                    Order now
+                                </button>
+                                <a href="/Item/Menu" class="btn btn-secondary mt-2">
+                                    Back to List
+                                </a>
+                            </div>
+
+
+                        </form>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

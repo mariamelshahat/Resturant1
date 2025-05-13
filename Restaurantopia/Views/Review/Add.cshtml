@@ -1,0 +1,99 @@
+﻿@model Restaurantopia.Entities.Models.Review
+
+@{
+    ViewData["Title"] = "Add";
+    Layout = "_ReviewPage"; // Ensure the layout is correct.
+}
+
+<section class="book_section layout_padding">
+    <div class="container">
+        <div class="heading_container">
+            <h2>
+                Add Your Review
+            </h2>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <div class="form_container">
+                    <form asp-action="Add">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <div class ="form-floating mb-3">
+                            <input asp-for="Comment" class="form-control" placeholder="Comment" />
+                            <span asp-validation-for="Comment" class="text-danger"></span>
+                        </div>
+
+                        <div>
+                            <select asp-for="Rate" class="form-control custom-dropdown nice-select wide">
+                                <option value="" disabled selected>Select Rating</option>
+                                @for (int i = 1; i <= 10; i++)
+                                {
+                                    <option value="@i">@i</option>
+                                }
+                            </select>
+                            <span asp-validation-for="Rate" class="text-danger"></span>
+                        </div>
+
+                        <div>
+                            <input asp-for="Date" type="date" class="form-control" placeholder="Date" />
+                            <span asp-validation-for="Date" class="text-danger"></span>
+                        </div>
+
+                        <div>
+                            <input asp-for="CustomerId" class="form-control" placeholder="CustomerId" />
+                            <span asp-validation-for="CustomerId" class="text-danger"></span>
+                        </div>
+
+                        <div class="btn_box">
+                            <button asp-action="Add" type="submit" class="btn btn-primary">
+                                Create
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<style>
+    .form_container {
+        margin: 20px auto;
+        padding: 15px;
+        width: 100%; /* Full width within the column */
+        text-align: left; /* Align text to the left */
+        font-size: 18px;
+        font-weight: bold;
+    }
+
+    .custom-dropdown {
+        appearance: none; /* Removes the default arrow in some browsers */
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        background-color: #f8f9fa; /* Light background color */
+        border: 1px solid #ced4da; /* Border color */
+        padding: 10px 12px; /* Padding inside the dropdown */
+        font-size: 16px; /* Font size */
+        line-height: 1.5; /* Line height */
+        border-radius: 5px; /* Rounded corners */
+        width: 100%; /* Make the dropdown width match the form */
+        transition: border-color 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+    }
+
+        .custom-dropdown:focus {
+            border-color: #80bdff; /* Border color on focus */
+            box-shadow: 0 0 5px rgba(0, 123, 255, 0.5); /* Shadow effect on focus */
+            outline: none; /* Removes the default outline */
+        }
+
+        .custom-dropdown option {
+            background-color: #ffffff; /* Option background */
+            color: #000000; /* Option text color */
+        }
+
+    .btn_box {
+        display: flex; /* Use flexbox for button alignment */
+        justify-content: space-between; /* Space buttons apart */
+    }
+
+    /* Additional styles can be added as needed */
+</style>

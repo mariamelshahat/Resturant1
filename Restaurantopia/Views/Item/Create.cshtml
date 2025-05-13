@@ -1,0 +1,118 @@
+﻿@model Restaurantopia.Entities.Models.Item
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "_CreateNewPage";
+}
+
+<section class="book_section layout_padding">
+    <div class="container">
+        <div class="heading_container">
+            <h2>
+                Create A New Item
+            </h2>
+        </div>
+        <div class="row">
+            <div class="col-md-4">
+                <div class="form_container">
+                    <form asp-action="Create" enctype="multipart/form-data">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                        <div class="form-floating mb-3">
+                            <label class="styled-label" asp-for="ItemTitle">Title</label>
+                            <input asp-for="ItemTitle" class="form-control" placeholder="Item Title" />
+                            <span asp-validation-for="ItemTitle" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-floating mb-3">
+                            <label class="styled-label" asp-for="ItemDescription">Description</label>
+                            <input asp-for="ItemDescription" class="form-control" placeholder="Item Description" />
+                            <span asp-validation-for="ItemDescription" class="text-danger"></span>
+                        </div>
+
+                        <div class="form-floating mb-3">
+                            <label class="styled-label" asp-for="ItemPrice">Price</label>
+                            <input asp-for="ItemPrice" class="form-control" placeholder="Item Price" />
+                            <span asp-validation-for="ItemPrice" class="text-danger"></span>
+                        </div>
+
+
+                        <div class="form-floating mb-3">
+                            <label class="styled-label" asp-for="CategoryId">Category Name</label>
+                            <select asp-for="CategoryId" asp-items="@(new SelectList(Model.categoryList, "Id", "CategoryName"))" class="form-control">
+                                <option value="-1" disabled selected>-- Select a category --</option>
+                            </select>
+                            <span asp-validation-for="CategoryId" class="text-danger"></span>
+                        </div>
+                        <div class="form-floating mb-3">
+                            <label asp-for="ImageFile" class="styled-label">Image</label>
+                            <input asp-for="ImageFile" class="form-control" type="file" onchange="loadFile(event)" />
+                            <span asp-validation-for="ImageFile" class="text-danger"></span>
+                        </div>
+
+                        <div class="image-container mt-2">
+                            <img id="output" width="100%" />
+                        </div>
+
+                      
+                        <div class="btn_box d-flex justify-content-between">
+                            <button type="submit" class="btn btn-primary">Create</button>
+                            <button type="button" class="btn btn-secondary" onclick="location.href='@Url.Action("Menu")'">
+                                Back To Menu
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<style>
+    .image-container {
+        max-width: 300px;
+        max-height: 300px;
+        overflow: hidden;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add subtle shadow */
+    }
+
+        .image-container img {
+            width: 100%;
+            height: auto;
+            object-fit: cover; /* Ensures the image covers the container without distortion */
+            border-radius: 10px;
+        }
+
+    .styled-label {
+        font-size: 1.25rem; /* Increase font size */
+        font-weight: 600; /* Make text bold */
+        color: #333; /* Darker text color for better readability */
+        text-transform: uppercase; /* Make the label text uppercase */
+        letter-spacing: 0.05rem; /* Add some spacing between letters */
+        margin-bottom: 10px; /* Add space below the label */
+        display: inline-block; /* Ensures label behaves like a block element */
+    }
+
+    .btn_box {
+        margin-top: 20px; /* Add some spacing above the button box */
+    }
+</style>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync ( "_ValidationScriptsPartial" );
+    }
+
+
+    <script>
+            var loadFile = function (event) {
+            var reader = new FileReader();
+            reader.onload = function () {
+                var myImg = document.getElementById('output');
+                myImg.src = reader.result;
+                } ;
+            reader.readAsDataURL(event.target.files[0]);
+        }
+    </script>
+}

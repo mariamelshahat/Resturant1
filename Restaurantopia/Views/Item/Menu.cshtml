@@ -1,0 +1,150 @@
+﻿@model IEnumerable<Restaurantopia.Entities.Models.Item>
+@using Microsoft.AspNetCore.Identity;
+@using Restaurantopia.Entities.Models
+@inject SignInManager<IdentityUser> signInManager;
+
+@{
+    ViewData["Title"] = "Menu";
+    Layout = "_MenuPage";
+}
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.5.0/font/bootstrap-icons.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" />
+
+<div class="filters-content">
+    <!-- Search Bar -->
+    <div class="col-md-12 mb-3">
+        <form asp-action="Menu" method="get" class="d-inline">
+            <div class="input-group custom-search-group">
+                <input type="text" name="searchQuery" class="form-control custom-search-input" placeholder="Search by Item Name" value="@ViewBag.SearchQuery" />
+                <button type="submit" class="btn custom-search-btn">Search</button>
+            </div>
+        </form>
+    </div>
+
+    <!-- Menu Grid -->
+    <div class="row grid">
+        @foreach (var item in Model)
+        {
+            <div class="col-sm-6 col-lg-4 all pizza">
+                <div class="box card-fixed">
+                    <div class="img-box">
+                        <img src="@Url.Content(item.ItemImage ?? "/images/default-placeholder.png")" class="card-img-top" alt="@item.ItemTitle" style="height: 200px; object-fit: cover;border-radius: 20px;">
+                    </div>
+
+                    <div class="detail-box">
+                        <h5>@item.ItemTitle</h5>
+                        <p>@item.ItemDescription</p>
+                        <div class="options">
+                            <h6>$@item.ItemPrice</h6>
+                        </div>
+                        @if (User.IsInRole(RolesNames.roleAdmin)){
+                        <div class="options">
+                            @Html.ActionLink("", "Edit", new { id = item.Id }, new { @class = "bi bi-pencil icon-white" }) |
+                            @Html.ActionLink("", "Details", new { id = item.Id }, new { @class = "bi bi-eye icon-white" }) |
+                            @Html.ActionLink("", "Delete", new { id = item.Id }, new { @class = "bi bi-trash icon-white" }) 
+                            </div>
+                        }
+                        else if (User.IsInRole(RolesNames.roleCustomer))
+                        {
+                            <div class="options">
+                                @Html.ActionLink("", "Details", new { id = item.Id }, new { @class = "bi bi-eye icon-white" }) |
+                                @Html.ActionLink("", "Order", new { id = item.Id }, new { @class = "fa fa-shopping-cart icon-white" })
+                            </div>
+                        }
+                        else
+                        {
+                            <div class="options">
+                                @Html.ActionLink("", "Details", new { id = item.Id }, new { @class = "bi bi-eye icon-white" }) 
+                                
+                            </div>
+                        }
+                        
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+
+<!-- Custom CSS -->
+<style>
+    .card-fixed {
+        height: 450px; /* Fixed height for the card */
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between; /* Ensures the content is evenly distributed */
+        padding: 15px;
+        margin-bottom: 20px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+        border-radius: 10px; /* Rounded corners for the card */
+        background-color: white; /* Background color for card */
+    }
+
+    /* Ensure the image box takes up consistent height */
+    .img-box {
+        height: 200px; /* Fixed height for images */
+        width: 100%; /* Full width */
+        margin-bottom: 10px;
+    }
+
+    /* Ensure the detail box has flexible height */
+    .detail-box {
+        flex-grow: 1;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    }
+
+    .options {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    /* Icon Styles */
+    .icon-white {
+        color: black;
+    }
+
+    /* Search Bar Styling */
+    .custom-search-group {
+        max-width: 500px;
+        margin: 0 auto;
+        border-radius: 50px;
+        overflow: hidden;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .custom-search-input {
+        padding: 12px 20px;
+        font-size: 16px;
+        border: none;
+        flex-grow: 1;
+        border-radius: 50px 0 0 50px;
+        transition: box-shadow 0.3s ease;
+        height: 100%;
+    }
+
+    .custom-search-btn {
+        background-color: #ffc107;
+        color: white;
+        border: none;
+        padding: 12px 20px;
+        font-size: 16px;
+        font-weight: 600;
+        border-radius: 0 50px 50px 0;
+        cursor: pointer;
+        transition: background-color 0.3s ease, box-shadow 0.3s ease;
+        height: 100%;
+    }
+
+    .custom-search-btn:hover {
+        background-color: #e0a800;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+    }
+
+    .custom-search-input:focus {
+        box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+        outline: none;
+    }
+</style>

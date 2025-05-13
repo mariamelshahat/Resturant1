@@ -1,0 +1,91 @@
+﻿@page
+@model RegisterModel
+@{
+    ViewData["Title"] = "Register";
+    Layout = "_HomeLayout";
+}
+
+<section class="book_section layout_padding">
+    <div class="container">
+        <div class="heading_container">
+            <h2>
+                Register
+            </h2>
+        </div>
+
+        <div class="row">
+            <div class="col-md-4">
+                <div class="form_container">
+                    <form asp-route-returnUrl="@Model.ReturnUrl" method="post">
+                        <h2>Create a new account</h2>
+                        <hr />
+                        <div asp-validation-summary="All" class="text-danger"></div>
+
+                        <!-- Email Input -->
+                        <div class="form-floating mb-3">
+                            <label asp-for="Input.Email" class="styled-label">Email</label>
+                            <input asp-for="Input.Email" class="form-control" placeholder="Enter your email" autocomplete="username" aria-required="true" />
+                            <span asp-validation-for="Input.Email" class="text-danger"></span>
+                        </div>
+
+                        <!-- Password Input -->
+                        <div class="form-floating mb-3">
+                            <label asp-for="Input.Password" class="styled-label">Password</label>
+                            <input asp-for="Input.Password" class="form-control" placeholder="Enter your password" autocomplete="new-password" aria-required="true" />
+                            <span asp-validation-for="Input.Password" class="text-danger"></span>
+                        </div>
+
+                        <!-- Confirm Password Input -->
+                        <div class="form-floating mb-3">
+                            <label asp-for="Input.ConfirmPassword" class="styled-label">Confirm Password</label>
+                            <input asp-for="Input.ConfirmPassword" class="form-control" placeholder="Confirm your password" autocomplete="new-password" aria-required="true" />
+                            <span asp-validation-for="Input.ConfirmPassword" class="text-danger"></span>
+                        </div>
+
+                        <!-- Phone Number Input -->
+                        <div class="form-floating mb-3">
+                            <label asp-for="Input.PhoneNumber" class="styled-label">Phone Number</label>
+                            <input asp-for="Input.PhoneNumber" class="form-control" placeholder="Enter your phone number" aria-required="true" />
+                            <span asp-validation-for="Input.PhoneNumber" class="text-danger"></span>
+                        </div>
+
+                        <!-- Submit Button and Back to Menu -->
+                        <div class="btn_box d-flex justify-content-between">
+                            <button type="submit" class="btn btn-primary">Register</button>
+                            <button type="button" class="btn btn-secondary" onclick="location.href='@Url.Action("Login", "Account")'">
+                                Back To Login
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<style>
+    .styled-label {
+        font-size: 1.25rem; /* Increase font size */
+        font-weight: 600; /* Make text bold */
+        color: #333; /* Darker text color for better readability */
+        text-transform: uppercase; /* Make the label text uppercase */
+        letter-spacing: 0.05rem; /* Add some spacing between letters */
+        margin-bottom: 10px; /* Add space below the label */
+        display: inline-block; /* Ensures label behaves like a block element */
+    }
+
+    .form-control {
+        padding: 12px;
+        font-size: 1rem;
+        border-radius: 5px;
+        border: 1px solid #ccc;
+    }
+
+    .btn_box {
+        margin-top: 20px; /* Add some spacing above the button box */
+    }
+</style>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

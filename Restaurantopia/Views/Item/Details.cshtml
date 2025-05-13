@@ -1,0 +1,97 @@
+﻿@model Restaurantopia.Entities.Models.Item
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "_HomeLayout";
+}
+
+<section class="book_section layout_padding">
+    <div class="container">
+        <div class="heading_container text-center">
+            <h2>Item Details</h2>
+            <hr class="my-4" />
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <div class="form_container">
+
+
+                    <!-- Item Title -->
+                    <div class="form-floating mb-3">
+                        <label class="form-label styled-label">Item Name</label>
+                        <input class="form-control" value="@Html.DisplayFor(model => model.ItemTitle)" readonly />
+                    </div>
+
+                    <!-- Item Description -->
+                    <div class="form-floating mb-3">
+                        <label class="form-label styled-label">Item Description</label>
+                        <textarea class="form-control" readonly>@Html.DisplayFor(model => model.ItemDescription)</textarea>
+                    </div>
+
+                    <!-- Item Price -->
+                    <div class="form-floating mb-3">
+                        <label class="form-label styled-label">Item Price</label> <!-- Changed the label text -->
+                        <input class="form-control" value="@Html.DisplayFor(model => model.ItemPrice)" readonly />
+                    </div>
+
+
+                    <!-- Category -->
+                    <div class="form-floating mb-3">
+                        <label class="form-label styled-label">Category Name</label> <!-- Changed the label text -->
+                        @foreach (var cat in ViewBag.C_s)
+                        {
+                            if (cat.Id == Model.CategoryId)
+                            {
+                                <input class="form-control" value="@cat.CategoryName" readonly />
+                                break;
+                            }
+                        }
+                    </div>
+
+
+                    <!-- Item Image -->
+                    <div class="mb-3">
+                        <label class="form-label styled-label">Item Image</label>
+                        <div class="image-container">
+                            <img src="@Model.ItemImage" alt="Item Image" class="card-img" style="object-fit: cover; height: 100%;" onerror="this.onerror=null; this.src='~/wwwroot/Images/default-image.jpg';" />
+                        </div>
+                    </div>
+
+                    <!-- Action Links -->
+                    <div class="btn_box text-center">
+                        <button type="button" class="btn btn-secondary" onclick="location.href='@Url.Action("Menu")'">
+                            Back To Menu
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<style>
+    .image-container {
+        max-width: 300px;
+        max-height: 300px;
+        overflow: hidden;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add subtle shadow */
+        border-radius: 10px; /* Rounded corners for the image container */
+    }
+
+        .image-container img {
+            width: 100%;
+            height: auto;
+            object-fit: cover; /* Ensures the image covers the container without distortion */
+            border-radius: 10px;
+        }
+
+    .styled-label {
+        font-size: 1.25rem; /* Increase font size */
+        font-weight: 600; /* Make text bold */
+        color: #333; /* Darker text color for better readability */
+        text-transform: uppercase; /* Make the label text uppercase */
+        letter-spacing: 0.05rem; /* Add some spacing between letters */
+        margin-bottom: 10px; /* Add space below the label */
+        display: inline-block; /* Ensures label behaves like a block element */
+    }
+</style>

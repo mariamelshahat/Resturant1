@@ -1,0 +1,77 @@
+﻿@model Restaurantopia.Entities.Models.Category
+
+@{
+    ViewData["Title"] = "Category Details";
+    Layout = "_HomeLayout";
+}
+
+<section class="book_section layout_padding">
+    <div class="cont">
+        <div class="heading_container">
+            <h2>Category Details</h2>
+        </div>
+
+        <div class="row">
+            <div class="col-md-4">
+
+                <div class="form_container">
+                    <div class="form-floating mb-3">
+                        <label class="styled-label">Category ID</label>
+                        <input type="text" class="form-control" value="@Model.Id" readonly />
+                    </div>
+
+                    <div class="form-floating mb-3">
+                        <label class="styled-label">Category Name</label>
+                        <input type="text" class="form-control" value="@Model.CategoryName" readonly />
+                    </div>
+
+                    <div class="btn_box d-flex justify-content-between">
+                        <button type="button" class="btn btn-warning" onclick="location.href='@Url.Action("Edit", new { id = Model.Id })'">
+                            Edit
+                        </button>
+                        <button type="button" class="btn btn-secondary" onclick="location.href='@Url.Action("ListOfCategories")'">
+                            Back To Menu
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+<style>
+    .styled-label {
+        font-size: 1.25rem;
+        font-weight: 600;
+        color: #333;
+        text-transform: uppercase;
+        letter-spacing: 0.05rem;
+        margin-bottom: 10px;
+        display: inline-block;
+    }
+
+    .cont {
+        padding: 30px;
+        background-color: #f9f9f9;
+        border-radius: 8px;
+        box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+    }
+
+    .row {
+        margin-top: 20px;
+    }
+
+    .form-control {
+        padding: 12px;
+        font-size: 1rem;
+        border-radius: 5px;
+        border: 1px solid #ccc;
+        background-color: #e9ecef;
+    }
+
+    .btn_box {
+        margin-top: 20px;
+    }
+</style>

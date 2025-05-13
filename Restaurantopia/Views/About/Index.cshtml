@@ -1,0 +1,60 @@
+﻿@{
+    ViewData["Title"] = "Index";
+    Layout = "_HomeLayout";
+}
+<section class="about_section layout_padding" style="background-color: white;">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="img-box">
+                    <img src="/images/home.webp" alt="Restaurantopia" style="width: 100%; height: 100vh; object-fit: cover; border-radius: 10px;">
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="detail-box" style="color: chocolate;">
+                    <div class="heading_container">
+                        <h2 style="color: chocolate; font-size: 2.5rem; font-weight: bold;">We Are Restaurantopia</h2>
+                    </div>
+                    <hr style="border: 1px solid chocolate;" />
+                    <p style="color: chocolate; font-size: 1.50rem; line-height: 1.6;">
+                        Welcome to Restaurantopia, where authentic Egyptian flavors come to life! Our menu is crafted to bring you the finest traditional dishes, from savory koshari to crispy falafel, each prepared with care and fresh ingredients. Dive into the rich heritage of Egyptian cuisine, enjoyed in a warm and inviting atmosphere. Whether you're craving hearty molokhia or sweet basbousa, we have something to satisfy every palate. Experience the vibrant tastes of Egypt with our handcrafted meals, perfect for any occasion. Order online and bring the essence of Egypt straight to your table!
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Custom CSS -->
+<style>
+    .about_section {
+        padding: 50px 0; /* Add padding for top and bottom */
+    }
+
+    .img-box img {
+        border-radius: 10px; /* Rounded corners for the image */
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* Subtle shadow for depth */
+    }
+
+    .detail-box {
+        padding: 30px; /* Add padding inside the detail box */
+        display: flex;
+        flex-direction: column; /* Stack elements vertically */
+        justify-content: center; /* Center vertically */
+        height: 100vh; /* Full height */
+    }
+
+    .heading_container h2 {
+        margin-bottom: 20px; /* Space below heading */
+    }
+
+    hr {
+        margin: 20px 0; /* Space above and below the horizontal rule */
+    }
+
+    p {
+        text-align: justify; /* Justify text for better readability */
+    }
+
+    
+</style>

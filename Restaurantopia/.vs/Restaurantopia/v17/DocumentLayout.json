@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C258394-DBF1-4EC0-B8F2-B31395A8838B}|Restaurantopia.csproj|c:\\users\\user\\source\\repos\\restaurantopia\\restaurantopia\\views\\item\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C258394-DBF1-4EC0-B8F2-B31395A8838B}|Restaurantopia.csproj|solutionrelative:views\\item\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{002CF11A-8C8B-4618-AA5E-97E33009A0E3}|..\\Restaurantopia.Entities\\Restaurantopia.Entities.csproj|c:\\users\\user\\source\\repos\\restaurantopia\\restaurantopia.entities\\models\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{002CF11A-8C8B-4618-AA5E-97E33009A0E3}|..\\Restaurantopia.Entities\\Restaurantopia.Entities.csproj|c:\\users\\user\\source\\repos\\restaurantopia\\restaurantopia.entities\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C258394-DBF1-4EC0-B8F2-B31395A8838B}|Restaurantopia.csproj|c:\\users\\user\\source\\repos\\restaurantopia\\restaurantopia\\views\\item\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C258394-DBF1-4EC0-B8F2-B31395A8838B}|Restaurantopia.csproj|solutionrelative:views\\item\\menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\Views\\Item\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Item\\Create.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\Views\\Item\\Create.cshtml",
+              "RelativeToolTip": "Views\\Item\\Create.cshtml",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAHIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-20T20:16:58.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderDetails.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia.Entities\\Models\\OrderDetails.cs",
+              "RelativeDocumentMoniker": "..\\Restaurantopia.Entities\\Models\\OrderDetails.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia.Entities\\Models\\OrderDetails.cs",
+              "RelativeToolTip": "..\\Restaurantopia.Entities\\Models\\OrderDetails.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T20:02:33.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia.Entities\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "..\\Restaurantopia.Entities\\Models\\Item.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia.Entities\\Models\\Item.cs",
+              "RelativeToolTip": "..\\Restaurantopia.Entities\\Models\\Item.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwCcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T18:31:19.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Menu.cshtml",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\Views\\Item\\Menu.cshtml",
+              "RelativeDocumentMoniker": "Views\\Item\\Menu.cshtml",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\Views\\Item\\Menu.cshtml",
+              "RelativeToolTip": "Views\\Item\\Menu.cshtml",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAAAC8AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T19:12:43.346Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

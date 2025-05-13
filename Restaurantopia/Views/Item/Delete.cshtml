@@ -1,0 +1,110 @@
+﻿@model Restaurantopia.Entities.Models.Item
+
+@{
+    ViewData["Title"] = "Delete";
+    Layout = "_HomeLayout";
+}
+<section class="book_section layout_padding">
+    <div class="container">
+        <div class="heading_container text-center">
+            <h2>
+                Are you sure you want to delete @Model.ItemTitle?
+            </h2>
+            <hr class="my-4" />
+        </div>
+        <div>
+            <div class="heading_container text-center">
+                <h2>Item Details</h2>
+                <hr class="my-4" />
+            </div>
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="form_container">
+                        <form asp-action="Delete" method="post">
+                           
+
+                            <!-- Item Title -->
+                            <div class="form-floating mb-3">
+                                <label class="form-label styled-label">@Html.DisplayNameFor(model => model.ItemTitle)</label>
+                                <input class="form-control" value="@Html.DisplayFor(model => model.ItemTitle)" readonly />
+                            </div>
+
+                            <!-- Item Description -->
+                            <div class="form-floating mb-3">
+                                <label class="form-label styled-label">@Html.DisplayNameFor(model => model.ItemDescription)</label>
+                                <input class="form-control" value="@Html.DisplayFor(model => model.ItemDescription)" readonly />
+                            </div>
+
+                            <!-- Item Price -->
+                            <div class="form-floating mb-3">
+                                <label class="form-label styled-label">@Html.DisplayNameFor(model => model.ItemPrice)</label>
+                                <input class="form-control" value="@Html.DisplayFor(model => model.ItemPrice)" readonly />
+                            </div>
+
+                          
+                            <div class="form-floating mb-3">
+                                <label class="form-label styled-label">Category Name</label> <!-- Changed the label text -->
+                                @foreach (var cat in ViewBag.C_s)
+                                {
+                                    if (cat.Id == Model.CategoryId)
+                                    {
+                                        <input class="form-control" value="@cat.CategoryName" readonly />
+                                        break;
+                                    }
+                                }
+                            </div>
+
+                            <!-- Item Image -->
+                            <div class="form-floating mb-3">
+                                <!-- Dynamically display the item image -->
+                                <label class="form-label styled-label">Item Image</label>
+                                <div class="image-container">
+                                       <img src="@Url.Content(Model.ItemImage ?? "~/images/default-placeholder.png")"
+                                           alt="Item Image"
+                                           onerror="this.onerror=null; this.src='~/Images/default-placeholder.png';" />
+                                </div>
+                            </div>
+
+                            <div class="btn_box">
+                                <button type="submit" class="btn btn-danger">Delete</button>
+                                <button type="button" class="btn btn-secondary" onclick="location.href='@Url.Action("Menu")'">
+                                    Back To Menu
+                                </button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<style>
+    .image-container {
+        max-width: 300px;
+        max-height: 300px;
+        overflow: hidden;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add subtle shadow */
+    }
+
+        .image-container img {
+            width: 100%;
+            height: auto;
+            object-fit: cover; /* Ensures the image covers the container without distortion */
+            border-radius: 10px;
+        }
+
+    .styled-label {
+        font-size: 1.25rem; /* Increase font size */
+        font-weight: 600; /* Make text bold */
+        color: #333; /* Darker text color for better readability */
+        text-transform: uppercase; /* Make the label text uppercase */
+        letter-spacing: 0.05rem; /* Add some spacing between letters */
+        margin-bottom: 10px; /* Add space below the label */
+        display: inline-block; /* Ensures label behaves like a block element */
+    }
+
+    .btn_box {
+        margin-top: 20px; /* Add some spacing above the button box */
+    }
+</style>

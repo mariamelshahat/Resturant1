@@ -1,0 +1,13 @@
+C:\Users\user\Source\Repos\Restaurantopia\Restaurantopia.Entities\bin\Debug\net8.0\Restaurantopia.Entities.deps.json
+C:\Users\user\Source\Repos\Restaurantopia\Restaurantopia.Entities\bin\Debug\net8.0\Restaurantopia.Entities.dll
+C:\Users\user\Source\Repos\Restaurantopia\Restaurantopia.Entities\bin\Debug\net8.0\Restaurantopia.Entities.pdb
+C:\Users\user\Source\Repos\Restaurantopia\Restaurantopia.Entities\obj\Debug\net8.0\Restaurantopia.Entities.csproj.AssemblyReference.cache
+C:\Users\user\Source\Repos\Restaurantopia\Restaurantopia.Entities\obj\Debug\net8.0\Restaurantopia.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Source\Repos\Restaurantopia\Restaurantopia.Entities\obj\Debug\net8.0\Restaurantopia.Entities.AssemblyInfoInputs.cache
+C:\Users\user\Source\Repos\Restaurantopia\Restaurantopia.Entities\obj\Debug\net8.0\Restaurantopia.Entities.AssemblyInfo.cs
+C:\Users\user\Source\Repos\Restaurantopia\Restaurantopia.Entities\obj\Debug\net8.0\Restaurantopia.Entities.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\Restaurantopia\Restaurantopia.Entities\obj\Debug\net8.0\Restaurantopia.Entities.sourcelink.json
+C:\Users\user\Source\Repos\Restaurantopia\Restaurantopia.Entities\obj\Debug\net8.0\Restaurantopia.Entities.dll
+C:\Users\user\Source\Repos\Restaurantopia\Restaurantopia.Entities\obj\Debug\net8.0\refint\Restaurantopia.Entities.dll
+C:\Users\user\Source\Repos\Restaurantopia\Restaurantopia.Entities\obj\Debug\net8.0\Restaurantopia.Entities.pdb
+C:\Users\user\Source\Repos\Restaurantopia\Restaurantopia.Entities\obj\Debug\net8.0\ref\Restaurantopia.Entities.dll

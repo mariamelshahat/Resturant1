@@ -1,0 +1,109 @@
+﻿@model IEnumerable<Restaurantopia.Entities.Models.OrderDetails>
+
+@{
+    ViewData["Title"] = "Order Index";
+    Layout = "_OrderDetailsPage";
+}
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" />
+<div class="heading-section ftco-animate mb-5 text-center">
+    <div class="col-md-12 text-center heading-section ftco-animate">
+        <h2 class="mb-4">My Cart</h2>
+    </div>
+</div>
+<div class="container">
+    <div class="row">
+        @foreach (var order in Model)
+        {
+            <div class="col-md-6 col-lg-4 mb-4">
+                <div class="card h-100 shadow-sm">
+                    <div class="card-body d-flex flex-column">
+                        <p class="card-text">
+                            Item Name: @Html.DisplayFor( modelItem => order.Item.ItemTitle ) <!-- Display Item Name -->
+                        </p>
+                        <p class="card-text">
+                            Total Price: @Html.DisplayFor( modelItem => order.Total ) <!-- Display Total Price -->
+                        </p>
+                        <p class="card-text">
+                            Quantity: @Html.DisplayFor( modelItem => order.Quantity ) <!-- Display Quantity -->
+                        </p>
+                        <p class="card-text">
+                            Date of Order: @Html.DisplayFor( modelItem => order.Date ) <!-- Display Order Date -->
+                        </p>
+                        <p class="card-text">
+                            Phone Number: @Html.DisplayFor( modelItem => order.PhoneNumber ) <!-- Display Phone Number -->
+                        </p> <!-- New line to display Phone Number -->
+                        <div class="text-center">
+                            <a href="@Url.Action("Details", "OrderDetails", new { id = order.Id })">
+                                <!-- Dynamically display the order item's image -->
+                                <img src="@Url.Content(order.Item.ItemImage ?? "~/images/default-placeholder.png")"
+                                     alt="Order Image"
+                                     class="card-img-top"
+                                     style="height: 200px; object-fit: cover;"
+                                     onerror="this.onerror=null; this.src='~/images/default-placeholder.png';" />
+                            </a>
+                        </div>
+                        <div class="mt-auto text-center">
+                            <div class="mt-auto">
+                                <div class="mt-3">
+                                    <a href="/OrderDetails/Edit/@order.Id" class="btn btn-warning">Edit</a>
+                                    <a href="/OrderDetails/Delete/@order.Id" class="btn btn-danger">Delete</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+
+        @if (Model.Count () % 3 != 0)
+        {
+            <div class="w-100"></div>
+        } <!-- Ensures alignment for grid system -->
+    </div>
+</div>
+<style>
+    /* Optional custom styles for buttons */
+    .btn-warning {
+        background-color: #ffc107; /* Bootstrap warning color */
+        border: none;
+    }
+
+    .btn-danger {
+        background-color: #dc3545; /* Bootstrap danger color */
+        border: none;
+    }
+
+    /* Add hover effect */
+    .card {
+        transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+
+        .card:hover {
+            transform: scale(1.05); /* Scale up the card slightly */
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2); /* Add shadow on hover */
+        }
+
+    .btn {
+        position: relative;
+        overflow: hidden;
+        transition: all 0.3s ease;
+    }
+
+        /* Add hover scale animation */
+        .btn:hover {
+            transform: scale(1.05); /* Slightly increase the button size */
+        }
+
+    .btn-warning::before {
+        content: "\f044"; /* Font Awesome pencil-alt icon */
+        font-family: FontAwesome;
+        margin-right: 8px;
+    }
+
+    .btn-danger::before {
+        content: "\f2ed"; /* Font Awesome trash-alt icon */
+        font-family: FontAwesome;
+        margin-right: 8px;
+    }
+
+</style>
