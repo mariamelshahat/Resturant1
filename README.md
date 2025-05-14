@@ -1,24 +1,24 @@
 # Restaurantopia 🍽️
 
-نظام إدارة مطعم متكامل مبني باستخدام ASP.NET Core MVC. يوفر النظام واجهة لإدارة المنتجات، الطلبات، والمستخدمين مع دعم كامل للمصادقة والتفويض.
+A comprehensive restaurant management system built using ASP.NET Core MVC. The system provides an interface for managing products, orders, and users with full authentication and authorization support.
 
-## المتطلبات الأساسية 📋
+## Prerequisites 📋
 
 - [.NET 8.0 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)
 - [SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 - [Docker Desktop](https://www.docker.com/products/docker-desktop/)
-- [Visual Studio 2022](https://visualstudio.microsoft.com/vs/) (موصى به) أو [VS Code](https://code.visualstudio.com/)
+- [Visual Studio 2022](https://visualstudio.microsoft.com/vs/) (recommended) or [VS Code](https://code.visualstudio.com/)
 
-## التثبيت والإعداد 🚀
+## Installation and Setup 🚀
 
-### 1. تجهيز قاعدة البيانات
+### 1. Database Setup
 
 ```sql
--- إنشاء قاعدة البيانات
+-- Create Database
 CREATE DATABASE Restaurantopia;
 GO
 
--- إنشاء مستخدم
+-- Create User
 CREATE LOGIN NewUser WITH PASSWORD = '123';
 GO
 
@@ -28,77 +28,77 @@ GO
 CREATE USER NewUser FOR LOGIN NewUser;
 GO
 
--- منح الصلاحيات
+-- Grant Permissions
 ALTER ROLE db_owner ADD MEMBER NewUser;
 GO
 ```
 
-### 2. تشغيل المشروع محلياً
+### 2. Run Project Locally
 
 ```bash
-# استنساخ المشروع
-git clone [رابط المشروع]
+# Clone the project
+git clone [project-url]
 cd Restaurantopia
 
-# استعادة الحزم
+# Restore packages
 dotnet restore
 
-# تشغيل الهجرات
+# Run migrations
 dotnet ef database update
 
-# تشغيل المشروع
+# Run the project
 dotnet run
 ```
 
-### 3. تشغيل المشروع باستخدام Docker
+### 3. Run with Docker
 
 ```bash
-# بناء وتشغيل الحاويات
+# Build and run containers
 docker-compose up -d --build
 
-# عرض السجلات
+# View logs
 docker-compose logs -f
 
-# إيقاف الحاويات
+# Stop containers
 docker-compose down
 ```
 
-## هيكل المشروع 📁
+## Project Structure 📁
 
 ```
 Restaurantopia/
-├── Controllers/         # وحدات التحكم
-├── Models/             # نماذج البيانات
-├── Views/              # واجهات المستخدم
-├── wwwroot/           # الملفات الثابتة (CSS, JS, Images)
-├── Interfaces/        # الواجهات
-├── Repositories/      # مستودعات البيانات
-└── Program.cs         # نقطة البداية
+├── Controllers/         # Controllers
+├── Models/             # Data Models
+├── Views/              # User Interfaces
+├── wwwroot/           # Static Files (CSS, JS, Images)
+├── Interfaces/        # Interfaces
+├── Repositories/      # Data Repositories
+└── Program.cs         # Entry Point
 ```
 
-## المميزات الرئيسية ✨
+## Key Features ✨
 
-- 🔐 نظام مصادقة وتفويض متكامل
-- 👥 إدارة المستخدمين والأدوار
-- 🍕 إدارة المنتجات والفئات
-- 🛒 نظام طلبات متكامل
-- 📱 واجهة مستخدم متجاوبة
-- 🖼️ دعم تحميل وعرض الصور
-- 🔍 البحث والتصفية
+- 🔐 Integrated Authentication and Authorization
+- 👥 User and Role Management
+- 🍕 Product and Category Management
+- 🛒 Complete Order System
+- 📱 Responsive User Interface
+- 🖼️ Image Upload and Display Support
+- 🔍 Search and Filtering
 
-## الأدوار المتاحة 👥
+## Available Roles 👥
 
-1. **المدير (Admin)**
-   - إدارة المنتجات والفئات
-   - إدارة المستخدمين والأدوار
-   - عرض وإدارة الطلبات
+1. **Admin**
+   - Manage products and categories
+   - Manage users and roles
+   - View and manage orders
 
-2. **العميل (Customer)**
-   - تصفح المنتجات
-   - إنشاء وتتبع الطلبات
-   - إضافة تقييمات
+2. **Customer**
+   - Browse products
+   - Create and track orders
+   - Add reviews
 
-## الإعدادات 🔧
+## Configuration 🔧
 
 ### Connection String
 
@@ -110,70 +110,61 @@ Restaurantopia/
 }
 ```
 
-### المنافذ
+### Ports
 
-- التطبيق: `http://localhost:8080`
-- قاعدة البيانات: `1433`
+- Application: `http://localhost:8080`
+- Database: `1433`
 
 ## Docker 🐳
 
-### الملفات الرئيسية
+### Key Files
 
-- `Dockerfile`: إعدادات بناء الصورة
-- `docker-compose.yml`: تكوين الخدمات
-- `.dockerignore`: تجاهل الملفات غير الضرورية
+- `Dockerfile`: Image build settings
+- `docker-compose.yml`: Service configuration
+- `.dockerignore`: Ignore unnecessary files
 
-### الأوامر المفيدة
+### Useful Commands
 
 ```bash
-# بناء الصورة
+# Build image
 docker build -t restaurantopia .
 
-# تشغيل الحاوية
+# Run container
 docker run -d -p 8080:80 restaurantopia
 
-# عرض السجلات
+# View logs
 docker logs restaurantopia-app
 
-# الدخول إلى الحاوية
+# Enter container
 docker exec -it restaurantopia-app sh
 ```
 
-## حل المشاكل الشائعة 🔍
+## Troubleshooting 🔍
 
-1. **مشكلة الاتصال بقاعدة البيانات**
-   - تأكد من تشغيل SQL Server
-   - تحقق من صحة Connection String
-   - تأكد من صلاحيات المستخدم
+1. **Database Connection Issues**
+   - Ensure SQL Server is running
+   - Verify Connection String
+   - Check user permissions
 
-2. **مشكلة عرض الصور**
-   - تأكد من وجود الصور في مجلد `/wwwroot/Images`
-   - تحقق من صلاحيات المجلد
-   - تأكد من صحة المسارات في الكود
+2. **Image Display Issues**
+   - Ensure images exist in `/wwwroot/Images`
+   - Check folder permissions
+   - Verify paths in code
 
-3. **مشاكل Docker**
-   - تأكد من تشغيل Docker Desktop
-   - جرب إعادة تشغيل Docker
-   - تحقق من السجلات للأخطاء
+3. **Docker Issues**
+   - Ensure Docker Desktop is running
+   - Try restarting Docker
+   - Check logs for errors
 
-## المساهمة 🤝
+## Contributing 🤝
 
-1. Fork المشروع
-2. إنشاء فرع للميزة الجديدة
-3. Commit التغييرات
-4. Push إلى الفرع
-5. إنشاء Pull Request
+1. Fork the project
+2. Create a feature branch
+3. Commit your changes
+4. Push to the branch
+5. Create a Pull Request
 
-## الترخيص 📄
+## License 📄
 
-هذا المشروع مرخص تحت [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE).
 
-## الدعم 💬
-
-للمساعدة أو الاستفسارات:
-- فتح issue في GitHub
-- التواصل عبر [البريد الإلكتروني]
-
-## شكر خاص 🙏
-
-شكر خاص لكل المساهمين في هذا المشروع.
