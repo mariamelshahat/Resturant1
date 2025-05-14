@@ -121,7 +121,7 @@ Restaurantopia/
 
 You can pull the prebuilt Docker image directly from Docker Hub:
 
-[👉 hajermabrouk/restaurantopia on Docker Hub](https://hub.docker.com/repository/docker/hajermabrouk/restaurantopia/general)
+https://hub.docker.com/r/hajermabrouk/restaurantopia
 
 ```bash
 docker pull hajermabrouk/restaurantopia:latest
