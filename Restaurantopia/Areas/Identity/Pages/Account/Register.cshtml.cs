@@ -12,7 +12,8 @@ using Microsoft.AspNetCore.Identity.UI.Services;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.WebUtilities;
-using Restaurantopia.Entities.Models;
+using Restaurantopia.Models;
+
 namespace Restaurantopia.Areas.Identity.Pages.Account
 {
     [AllowAnonymous]

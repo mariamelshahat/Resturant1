@@ -1,8 +1,11 @@
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
 using Restaurantopia.InterFaces;
 using Restaurantopia.Models;
 using Restaurantopia.Repositories;
 using Microsoft.AspNetCore.Identity;
+using Microsoft.Data.SqlClient;
+using Microsoft.Extensions.FileProviders;
+using Microsoft.AspNetCore.StaticFiles;
 
 namespace Restaurantopia
 {
@@ -23,13 +26,27 @@ namespace Restaurantopia
             var app = builder.Build ();
 
 			
-			if (!app.Environment.IsDevelopment ())
-			{
-				app.UseExceptionHandler ( "/Home/Error" );
-				app.UseHsts ();
-			}
+			if (!app.Environment.IsDevelopment())
+{
+    app.UseExceptionHandler("/Home/Error");
+    app.UseHsts();
+    app.UseHttpsRedirection();
+}
+else
+{
+    // في بيئة التطوير، لا نستخدم HTTPS
+    app.UseDeveloperExceptionPage();
+}
 
-			app.UseHttpsRedirection ();
+var provider = new FileExtensionContentTypeProvider();
+provider.Mappings[".webp"] = "image/webp";
+
+app.UseStaticFiles(new StaticFileOptions
+{
+    ContentTypeProvider = provider
+});
+
+app.UseHttpsRedirection ();
 			app.UseStaticFiles ();
 
 			app.UseRouting ();
@@ -41,7 +58,7 @@ namespace Restaurantopia
 				pattern: "{controller=Home}/{action=Index}/{id?}" );
 
             app.UseEndpoints(endpoint => endpoint.MapRazorPages());
-
+          
             app.Run ();
 		}
 	}

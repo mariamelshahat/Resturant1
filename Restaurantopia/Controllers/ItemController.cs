@@ -1,15 +1,15 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
-using Restaurantopia.Entities.Models;
 using Restaurantopia.InterFaces;
+using Restaurantopia.Models;
 using Restaurantopia.Repositories;
 
 namespace Restaurantopia.Controllers
 {
 
 
-	public class ItemController : Controller
+    public class ItemController : Controller
 	{
 		private readonly IGenericRepository<Item> _Rep_Item;
 		private readonly IGenericRepository<Category> _Rep_Category;

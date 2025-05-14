@@ -1,8 +1,7 @@
 ﻿using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
-using Restaurantopia.Entities.Models;
-
+using Restaurantopia.Models;
 namespace Restaurantopia.Models
 {
     public class MyDbContext : IdentityDbContext<IdentityUser>

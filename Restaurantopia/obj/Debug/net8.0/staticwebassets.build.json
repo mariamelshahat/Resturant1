@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5fqqxLuwVv/u7Dw5ikbbsiOee93z9bQFbndir/bOmro=",
+  "Hash": "cLkbUMc2nIf9S+3OjhlW4jF/y22Jrig0Egblci2hldo=",
   "Source": "Restaurantopia",
   "BasePath": "_content/Restaurantopia",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "Restaurantopia\\wwwroot",
       "Source": "Restaurantopia",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "Pattern": "**"
     }
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.10\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Restaurantopia.styles.css",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Restaurantopia.styles.css",
       "SourceId": "Restaurantopia",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Restaurantopia.styles.css",
       "AssetKind": "All",
@@ -1173,13 +1173,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Restaurantopia.styles.css"
+      "OriginalItemSpec": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Restaurantopia.styles.css"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Restaurantopia.bundle.scp.css",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Restaurantopia.bundle.scp.css",
       "SourceId": "Restaurantopia",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Restaurantopia.bundle.scp.css",
       "AssetKind": "All",
@@ -1192,13 +1192,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Restaurantopia.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Restaurantopia.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\css\\bootstrap.css",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "css/bootstrap.css",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\css\\font-awesome.min.css",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\css\\font-awesome.min.css",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "css/font-awesome.min.css",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\css\\font-awesome.min.css"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\css\\responsive.css",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\css\\responsive.css",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "css/responsive.css",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\css\\responsive.css"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\css\\site.css",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\css\\style.css",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\css\\style.css",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\css\\style.css.map",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\css\\style.css.map",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "css/style.css.map",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\css\\style.scss",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\css\\style.scss",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "css/style.scss",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.scss"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\favicon.ico",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Fonts\\fontawesome-webfont.ttf",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Fonts\\fontawesome-webfont.ttf",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Fonts/fontawesome-webfont.ttf",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\Fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Fonts\\fontawesome-webfont.woff",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Fonts\\fontawesome-webfont.woff",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Fonts/fontawesome-webfont.woff",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\Fonts\\fontawesome-webfont.woff"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Fonts\\fontawesome-webfont.woff2",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Fonts\\fontawesome-webfont.woff2",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Fonts/fontawesome-webfont.woff2",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\Fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\about.jpeg",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\about.jpeg",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/about.jpeg",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\about.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\about-img.png",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\about-img.png",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/about-img.png",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\about-img.png"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\client1.jpg",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\client1.jpg",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/client1.jpg",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\client1.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\client2.jpg",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\client2.jpg",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/client2.jpg",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\client2.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\f1.png",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\f1.png",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/f1.png",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\f1.png"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\f2.png",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\f2.png",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/f2.png",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\f2.png"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\f3.png",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\f3.png",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/f3.png",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\f3.png"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\f4.png",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\f4.png",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/f4.png",
       "AssetKind": "All",
@@ -1556,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\f4.png"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\f5.png",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\f5.png",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/f5.png",
       "AssetKind": "All",
@@ -1575,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\f5.png"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\f6.png",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\f6.png",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/f6.png",
       "AssetKind": "All",
@@ -1594,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\f6.png"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\f7.png",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\f7.png",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/f7.png",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\f7.png"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\f8.png",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\f8.png",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/f8.png",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\f8.png"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\f9.png",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\f9.png",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/f9.png",
       "AssetKind": "All",
@@ -1651,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\f9.png"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\favicon.png",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\favicon.png",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/favicon.png",
       "AssetKind": "All",
@@ -1670,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\hero-bg.jpg",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\hero-bg.jpg",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/hero-bg.jpg",
       "AssetKind": "All",
@@ -1689,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\hero-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\home.webp",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\home.webp",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/home.webp",
       "AssetKind": "All",
@@ -1708,29 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\home.webp"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\home4.jpg",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\00895194-978a-4890-a664-4c923021e116_th.jpeg",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
-      "BasePath": "_content/Restaurantopia",
-      "RelativePath": "Images/home4.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Images\\home4.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\00895194-978a-4890-a664-4c923021e116_th.jpeg",
-      "SourceId": "Restaurantopia",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/00895194-978a-4890-a664-4c923021e116_th.jpeg",
       "AssetKind": "All",
@@ -1746,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\00895194-978a-4890-a664-4c923021e116_th.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\05ac78d3-2444-4598-a835-6aae09dcbe91_th.jpeg",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\05ac78d3-2444-4598-a835-6aae09dcbe91_th.jpeg",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/05ac78d3-2444-4598-a835-6aae09dcbe91_th.jpeg",
       "AssetKind": "All",
@@ -1765,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\05ac78d3-2444-4598-a835-6aae09dcbe91_th.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\07032870-28ca-488c-8200-d53427334f83_Konafa.jpeg",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\07032870-28ca-488c-8200-d53427334f83_Konafa.jpeg",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/07032870-28ca-488c-8200-d53427334f83_Konafa.jpeg",
       "AssetKind": "All",
@@ -1784,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\07032870-28ca-488c-8200-d53427334f83_Konafa.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\0a27b9db-636b-42ae-a3e5-058f5224e300_th.jpeg",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\0a27b9db-636b-42ae-a3e5-058f5224e300_th.jpeg",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/0a27b9db-636b-42ae-a3e5-058f5224e300_th.jpeg",
       "AssetKind": "All",
@@ -1803,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\0a27b9db-636b-42ae-a3e5-058f5224e300_th.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\0ee1dd37-a43c-4dce-baca-34d6189ad36d_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\0ee1dd37-a43c-4dce-baca-34d6189ad36d_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/0ee1dd37-a43c-4dce-baca-34d6189ad36d_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "AssetKind": "All",
@@ -1822,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\0ee1dd37-a43c-4dce-baca-34d6189ad36d_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\19a64dd2-05a4-414a-8443-a60292643fd7_th.jpeg",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\19a64dd2-05a4-414a-8443-a60292643fd7_th.jpeg",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/19a64dd2-05a4-414a-8443-a60292643fd7_th.jpeg",
       "AssetKind": "All",
@@ -1841,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\19a64dd2-05a4-414a-8443-a60292643fd7_th.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\1a2ba7e3-07f8-477c-b7f6-879d563cda76_Foul Medames.jpeg",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\1a2ba7e3-07f8-477c-b7f6-879d563cda76_Foul Medames.jpeg",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/1a2ba7e3-07f8-477c-b7f6-879d563cda76_Foul Medames.jpeg",
       "AssetKind": "All",
@@ -1860,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\1a2ba7e3-07f8-477c-b7f6-879d563cda76_Foul Medames.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\1d2e8bbb-f850-497a-97a5-87fbf680fe99_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\1d2e8bbb-f850-497a-97a5-87fbf680fe99_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/1d2e8bbb-f850-497a-97a5-87fbf680fe99_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "AssetKind": "All",
@@ -1879,10 +1860,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\1d2e8bbb-f850-497a-97a5-87fbf680fe99_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\20957de1-18e1-4ed7-900d-97032b2b6f59_Fasolia.jpeg",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\20957de1-18e1-4ed7-900d-97032b2b6f59_Fasolia.jpeg",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/20957de1-18e1-4ed7-900d-97032b2b6f59_Fasolia.jpeg",
       "AssetKind": "All",
@@ -1898,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\20957de1-18e1-4ed7-900d-97032b2b6f59_Fasolia.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\212e7eee-9660-4e34-90cc-0e36c599b818_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\212e7eee-9660-4e34-90cc-0e36c599b818_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/212e7eee-9660-4e34-90cc-0e36c599b818_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "AssetKind": "All",
@@ -1917,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\212e7eee-9660-4e34-90cc-0e36c599b818_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\2658136f-e44f-45f9-8cf3-f4960f664c71_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\2658136f-e44f-45f9-8cf3-f4960f664c71_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/2658136f-e44f-45f9-8cf3-f4960f664c71_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "AssetKind": "All",
@@ -1936,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\2658136f-e44f-45f9-8cf3-f4960f664c71_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\295021f9-7e17-4f13-b7cc-331e12a133fe_Baklava.jpeg",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\295021f9-7e17-4f13-b7cc-331e12a133fe_Baklava.jpeg",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/295021f9-7e17-4f13-b7cc-331e12a133fe_Baklava.jpeg",
       "AssetKind": "All",
@@ -1955,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\295021f9-7e17-4f13-b7cc-331e12a133fe_Baklava.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\30159a61-ee29-4c0e-8801-9562af891632_Besarah.webp",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\30159a61-ee29-4c0e-8801-9562af891632_Besarah.webp",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/30159a61-ee29-4c0e-8801-9562af891632_Besarah.webp",
       "AssetKind": "All",
@@ -1974,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\30159a61-ee29-4c0e-8801-9562af891632_Besarah.webp"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\30c17420-aca5-4d52-87f4-d84ca559b5a2_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\30c17420-aca5-4d52-87f4-d84ca559b5a2_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/30c17420-aca5-4d52-87f4-d84ca559b5a2_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "AssetKind": "All",
@@ -1993,10 +1974,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\30c17420-aca5-4d52-87f4-d84ca559b5a2_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\351a6515-e26b-40ad-9675-21aa608ef544_th.jpeg",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\351a6515-e26b-40ad-9675-21aa608ef544_th.jpeg",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/351a6515-e26b-40ad-9675-21aa608ef544_th.jpeg",
       "AssetKind": "All",
@@ -2012,10 +1993,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\351a6515-e26b-40ad-9675-21aa608ef544_th.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\36fe1fd6-bfc6-4c6b-af63-5407c2247171_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\36fe1fd6-bfc6-4c6b-af63-5407c2247171_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/36fe1fd6-bfc6-4c6b-af63-5407c2247171_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "AssetKind": "All",
@@ -2031,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\36fe1fd6-bfc6-4c6b-af63-5407c2247171_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\3a3cdecf-069d-4da7-8aa8-3a53ace91a21_Basbousa.jpeg",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\3a3cdecf-069d-4da7-8aa8-3a53ace91a21_Basbousa.jpeg",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/3a3cdecf-069d-4da7-8aa8-3a53ace91a21_Basbousa.jpeg",
       "AssetKind": "All",
@@ -2050,10 +2031,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\3a3cdecf-069d-4da7-8aa8-3a53ace91a21_Basbousa.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\3d37d317-fd9a-4168-9a0b-59153a49e2c0_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\3d37d317-fd9a-4168-9a0b-59153a49e2c0_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/3d37d317-fd9a-4168-9a0b-59153a49e2c0_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "AssetKind": "All",
@@ -2069,10 +2050,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\3d37d317-fd9a-4168-9a0b-59153a49e2c0_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\3e69464e-73ec-4a29-9057-86f8331cdbea_Mint Tea.jpeg",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\3e69464e-73ec-4a29-9057-86f8331cdbea_Mint Tea.jpeg",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/3e69464e-73ec-4a29-9057-86f8331cdbea_Mint Tea.jpeg",
       "AssetKind": "All",
@@ -2088,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\3e69464e-73ec-4a29-9057-86f8331cdbea_Mint Tea.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\3f540863-0361-45ba-a44c-30ec5241201a_Fattah.jpeg",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\3f540863-0361-45ba-a44c-30ec5241201a_Fattah.jpeg",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/3f540863-0361-45ba-a44c-30ec5241201a_Fattah.jpeg",
       "AssetKind": "All",
@@ -2107,10 +2088,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\3f540863-0361-45ba-a44c-30ec5241201a_Fattah.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\40ef801b-54b3-40e9-9169-ea7fc1299ce5_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\40ef801b-54b3-40e9-9169-ea7fc1299ce5_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/40ef801b-54b3-40e9-9169-ea7fc1299ce5_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "AssetKind": "All",
@@ -2126,10 +2107,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\40ef801b-54b3-40e9-9169-ea7fc1299ce5_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\48307ce1-1781-49d9-acc7-513d49039744_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\48307ce1-1781-49d9-acc7-513d49039744_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/48307ce1-1781-49d9-acc7-513d49039744_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "AssetKind": "All",
@@ -2145,10 +2126,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\48307ce1-1781-49d9-acc7-513d49039744_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\4c6e9065-4a86-485b-a240-eadff7460ccf_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\4c6e9065-4a86-485b-a240-eadff7460ccf_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/4c6e9065-4a86-485b-a240-eadff7460ccf_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "AssetKind": "All",
@@ -2164,10 +2145,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\4c6e9065-4a86-485b-a240-eadff7460ccf_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\4dc31fe2-a246-4240-b19d-0424e25bb1b9_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\4dc31fe2-a246-4240-b19d-0424e25bb1b9_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/4dc31fe2-a246-4240-b19d-0424e25bb1b9_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "AssetKind": "All",
@@ -2183,10 +2164,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\4dc31fe2-a246-4240-b19d-0424e25bb1b9_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\4de95a63-e321-4cf5-b23a-9056581423d7_shawarma (1).jpg",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\4de95a63-e321-4cf5-b23a-9056581423d7_shawarma (1).jpg",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/4de95a63-e321-4cf5-b23a-9056581423d7_shawarma (1).jpg",
       "AssetKind": "All",
@@ -2202,10 +2183,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\4de95a63-e321-4cf5-b23a-9056581423d7_shawarma (1).jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\4ffd281c-b5d0-4512-b208-2a046b95af73_lentil-soup.jpg",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\4ffd281c-b5d0-4512-b208-2a046b95af73_lentil-soup.jpg",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/4ffd281c-b5d0-4512-b208-2a046b95af73_lentil-soup.jpg",
       "AssetKind": "All",
@@ -2221,10 +2202,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\4ffd281c-b5d0-4512-b208-2a046b95af73_lentil-soup.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\50258650-2ec8-4476-a424-57897bab7041_Grilled Shrimp.jpeg",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\50258650-2ec8-4476-a424-57897bab7041_Grilled Shrimp.jpeg",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/50258650-2ec8-4476-a424-57897bab7041_Grilled Shrimp.jpeg",
       "AssetKind": "All",
@@ -2240,10 +2221,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\50258650-2ec8-4476-a424-57897bab7041_Grilled Shrimp.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\5046ca53-3be7-4317-a782-0cda5b036b34_th.jpeg",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\5046ca53-3be7-4317-a782-0cda5b036b34_th.jpeg",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/5046ca53-3be7-4317-a782-0cda5b036b34_th.jpeg",
       "AssetKind": "All",
@@ -2259,10 +2240,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\5046ca53-3be7-4317-a782-0cda5b036b34_th.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\52f96ad4-c9e9-43ac-bb7c-7d43339595af_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\52f96ad4-c9e9-43ac-bb7c-7d43339595af_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/52f96ad4-c9e9-43ac-bb7c-7d43339595af_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "AssetKind": "All",
@@ -2278,10 +2259,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\52f96ad4-c9e9-43ac-bb7c-7d43339595af_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\556a040b-697e-44da-9ded-4479d95d1141_th.jpeg",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\556a040b-697e-44da-9ded-4479d95d1141_th.jpeg",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/556a040b-697e-44da-9ded-4479d95d1141_th.jpeg",
       "AssetKind": "All",
@@ -2297,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\556a040b-697e-44da-9ded-4479d95d1141_th.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\5a7465a1-8c7a-4f68-b799-50b1abcbc6d0_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\5a7465a1-8c7a-4f68-b799-50b1abcbc6d0_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/5a7465a1-8c7a-4f68-b799-50b1abcbc6d0_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "AssetKind": "All",
@@ -2316,10 +2297,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\5a7465a1-8c7a-4f68-b799-50b1abcbc6d0_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\5b26d48c-ba04-4bd9-b5bf-1815824e3814_Om Ali.jpeg",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\5b26d48c-ba04-4bd9-b5bf-1815824e3814_Om Ali.jpeg",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/5b26d48c-ba04-4bd9-b5bf-1815824e3814_Om Ali.jpeg",
       "AssetKind": "All",
@@ -2335,10 +2316,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\5b26d48c-ba04-4bd9-b5bf-1815824e3814_Om Ali.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\602e7180-b12d-4032-956c-21ccd53c5ea9_Grilled Kofta .jpeg",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\602e7180-b12d-4032-956c-21ccd53c5ea9_Grilled Kofta .jpeg",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/602e7180-b12d-4032-956c-21ccd53c5ea9_Grilled Kofta .jpeg",
       "AssetKind": "All",
@@ -2354,10 +2335,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\602e7180-b12d-4032-956c-21ccd53c5ea9_Grilled Kofta .jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\69b45a0c-6d01-4ecd-a510-166f35ff7b75_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\69b45a0c-6d01-4ecd-a510-166f35ff7b75_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/69b45a0c-6d01-4ecd-a510-166f35ff7b75_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "AssetKind": "All",
@@ -2373,10 +2354,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\69b45a0c-6d01-4ecd-a510-166f35ff7b75_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\760233ec-7ad5-4a03-aaa4-a92e74593c3d_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\760233ec-7ad5-4a03-aaa4-a92e74593c3d_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/760233ec-7ad5-4a03-aaa4-a92e74593c3d_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "AssetKind": "All",
@@ -2392,10 +2373,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\760233ec-7ad5-4a03-aaa4-a92e74593c3d_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\77067de4-61fd-42b2-a63d-7019f47f9af3_Koshari.jpg",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\77067de4-61fd-42b2-a63d-7019f47f9af3_Koshari.jpg",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/77067de4-61fd-42b2-a63d-7019f47f9af3_Koshari.jpg",
       "AssetKind": "All",
@@ -2411,10 +2392,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\77067de4-61fd-42b2-a63d-7019f47f9af3_Koshari.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\77870767-6fbc-497b-badc-bf72a3edb270_-Coffee.jpg",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\77870767-6fbc-497b-badc-bf72a3edb270_-Coffee.jpg",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/77870767-6fbc-497b-badc-bf72a3edb270_-Coffee.jpg",
       "AssetKind": "All",
@@ -2430,10 +2411,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\77870767-6fbc-497b-badc-bf72a3edb270_-Coffee.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\7b46c8ac-7952-41f2-9f49-3a5de94250c8_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\7b46c8ac-7952-41f2-9f49-3a5de94250c8_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/7b46c8ac-7952-41f2-9f49-3a5de94250c8_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "AssetKind": "All",
@@ -2449,10 +2430,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\7b46c8ac-7952-41f2-9f49-3a5de94250c8_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\7c751e84-3509-4f51-b038-580895d04bae_th.jpeg",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\7c751e84-3509-4f51-b038-580895d04bae_th.jpeg",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/7c751e84-3509-4f51-b038-580895d04bae_th.jpeg",
       "AssetKind": "All",
@@ -2468,10 +2449,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\7c751e84-3509-4f51-b038-580895d04bae_th.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\7e60bb7b-0813-401b-a4fa-d7210bd34e4f_Sayadeya (Fish with Rice).jpeg",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\7e60bb7b-0813-401b-a4fa-d7210bd34e4f_Sayadeya (Fish with Rice).jpeg",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/7e60bb7b-0813-401b-a4fa-d7210bd34e4f_Sayadeya (Fish with Rice).jpeg",
       "AssetKind": "All",
@@ -2487,10 +2468,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\7e60bb7b-0813-401b-a4fa-d7210bd34e4f_Sayadeya (Fish with Rice).jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\8490e7d6-89e9-4304-b2c2-41008f9901ee_sahlab-3.jpg",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\8490e7d6-89e9-4304-b2c2-41008f9901ee_sahlab-3.jpg",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/8490e7d6-89e9-4304-b2c2-41008f9901ee_sahlab-3.jpg",
       "AssetKind": "All",
@@ -2506,10 +2487,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\8490e7d6-89e9-4304-b2c2-41008f9901ee_sahlab-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\84d0ac23-d915-4a1f-abee-28e34808aa5e_Falafel-Balls.jpg",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\84d0ac23-d915-4a1f-abee-28e34808aa5e_Falafel-Balls.jpg",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/84d0ac23-d915-4a1f-abee-28e34808aa5e_Falafel-Balls.jpg",
       "AssetKind": "All",
@@ -2525,10 +2506,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\84d0ac23-d915-4a1f-abee-28e34808aa5e_Falafel-Balls.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\881556bb-e9b6-4d21-a7de-ffcb190ad604_th.jpeg",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\881556bb-e9b6-4d21-a7de-ffcb190ad604_th.jpeg",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/881556bb-e9b6-4d21-a7de-ffcb190ad604_th.jpeg",
       "AssetKind": "All",
@@ -2544,10 +2525,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\881556bb-e9b6-4d21-a7de-ffcb190ad604_th.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\8a6d7458-be45-4615-aa35-ada0b3197862_Sea Bass.jpg",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\8a6d7458-be45-4615-aa35-ada0b3197862_Sea Bass.jpg",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/8a6d7458-be45-4615-aa35-ada0b3197862_Sea Bass.jpg",
       "AssetKind": "All",
@@ -2563,10 +2544,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\8a6d7458-be45-4615-aa35-ada0b3197862_Sea Bass.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\8d271671-c5ce-4f56-980b-3ec5328eac45_seafood-soup-close-up-10.webp",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\8d271671-c5ce-4f56-980b-3ec5328eac45_seafood-soup-close-up-10.webp",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/8d271671-c5ce-4f56-980b-3ec5328eac45_seafood-soup-close-up-10.webp",
       "AssetKind": "All",
@@ -2582,10 +2563,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\8d271671-c5ce-4f56-980b-3ec5328eac45_seafood-soup-close-up-10.webp"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "AssetKind": "All",
@@ -2601,10 +2582,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\8ee1354e-e54e-45eb-9448-7d5bde745db2_Qamar al-Din.jpeg",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\8ee1354e-e54e-45eb-9448-7d5bde745db2_Qamar al-Din.jpeg",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/8ee1354e-e54e-45eb-9448-7d5bde745db2_Qamar al-Din.jpeg",
       "AssetKind": "All",
@@ -2620,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\8ee1354e-e54e-45eb-9448-7d5bde745db2_Qamar al-Din.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\90e9ca77-4c0a-4d94-8ed5-624fe560d544_Hummus-11.jpg",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\90e9ca77-4c0a-4d94-8ed5-624fe560d544_Hummus-11.jpg",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/90e9ca77-4c0a-4d94-8ed5-624fe560d544_Hummus-11.jpg",
       "AssetKind": "All",
@@ -2639,10 +2620,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\90e9ca77-4c0a-4d94-8ed5-624fe560d544_Hummus-11.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\9245bf22-26fe-4cda-9be0-4eb7791d91fb_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\9245bf22-26fe-4cda-9be0-4eb7791d91fb_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/9245bf22-26fe-4cda-9be0-4eb7791d91fb_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "AssetKind": "All",
@@ -2658,10 +2639,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\9245bf22-26fe-4cda-9be0-4eb7791d91fb_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\925124b3-a73a-4cd6-9e41-576020559c36_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\925124b3-a73a-4cd6-9e41-576020559c36_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/925124b3-a73a-4cd6-9e41-576020559c36_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "AssetKind": "All",
@@ -2677,10 +2658,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\925124b3-a73a-4cd6-9e41-576020559c36_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\9511e2cf-d7a8-48b1-9bb5-85346e50fcff_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\9511e2cf-d7a8-48b1-9bb5-85346e50fcff_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/9511e2cf-d7a8-48b1-9bb5-85346e50fcff_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "AssetKind": "All",
@@ -2696,10 +2677,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\9511e2cf-d7a8-48b1-9bb5-85346e50fcff_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\954cd70e-748b-4059-82d4-e5047898f208_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\954cd70e-748b-4059-82d4-e5047898f208_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/954cd70e-748b-4059-82d4-e5047898f208_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "AssetKind": "All",
@@ -2715,10 +2696,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\954cd70e-748b-4059-82d4-e5047898f208_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\95688947-2e8b-4257-a255-e9e4e083dbf1_th.jpeg",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\95688947-2e8b-4257-a255-e9e4e083dbf1_th.jpeg",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/95688947-2e8b-4257-a255-e9e4e083dbf1_th.jpeg",
       "AssetKind": "All",
@@ -2734,10 +2715,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\95688947-2e8b-4257-a255-e9e4e083dbf1_th.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\957876fa-6c64-4a2f-a2b0-5fb7220b4f25_Karkade.jpeg",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\957876fa-6c64-4a2f-a2b0-5fb7220b4f25_Karkade.jpeg",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/957876fa-6c64-4a2f-a2b0-5fb7220b4f25_Karkade.jpeg",
       "AssetKind": "All",
@@ -2753,10 +2734,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\957876fa-6c64-4a2f-a2b0-5fb7220b4f25_Karkade.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\a00b8032-95aa-4253-93a4-249c7e4c0468_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\a00b8032-95aa-4253-93a4-249c7e4c0468_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/a00b8032-95aa-4253-93a4-249c7e4c0468_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "AssetKind": "All",
@@ -2772,10 +2753,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\a00b8032-95aa-4253-93a4-249c7e4c0468_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\a1cda752-9bd1-42e1-b8e9-0fc4acb11151_th.jpeg",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\a1cda752-9bd1-42e1-b8e9-0fc4acb11151_th.jpeg",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/a1cda752-9bd1-42e1-b8e9-0fc4acb11151_th.jpeg",
       "AssetKind": "All",
@@ -2791,10 +2772,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\a1cda752-9bd1-42e1-b8e9-0fc4acb11151_th.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\a416fad9-7f64-42d2-abf1-22649ab97ded_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\a416fad9-7f64-42d2-abf1-22649ab97ded_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/a416fad9-7f64-42d2-abf1-22649ab97ded_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "AssetKind": "All",
@@ -2810,10 +2791,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\a416fad9-7f64-42d2-abf1-22649ab97ded_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\a6e50b31-57b7-44c7-9fa7-d036cf354ccf_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\a6e50b31-57b7-44c7-9fa7-d036cf354ccf_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/a6e50b31-57b7-44c7-9fa7-d036cf354ccf_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "AssetKind": "All",
@@ -2829,10 +2810,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\a6e50b31-57b7-44c7-9fa7-d036cf354ccf_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\a958e5ac-4cae-41e0-ba38-12a538ea9e57_ECPC.jpg",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\a958e5ac-4cae-41e0-ba38-12a538ea9e57_ECPC.jpg",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/a958e5ac-4cae-41e0-ba38-12a538ea9e57_ECPC.jpg",
       "AssetKind": "All",
@@ -2848,10 +2829,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\a958e5ac-4cae-41e0-ba38-12a538ea9e57_ECPC.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\a9f07486-1c60-4ddc-ba9a-443a6467f468_red tea.jpeg",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\a9f07486-1c60-4ddc-ba9a-443a6467f468_red tea.jpeg",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/a9f07486-1c60-4ddc-ba9a-443a6467f468_red tea.jpeg",
       "AssetKind": "All",
@@ -2867,10 +2848,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\a9f07486-1c60-4ddc-ba9a-443a6467f468_red tea.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\ac367a9a-ad7e-40ba-aee2-6e5d9febbf5f_Basbousa.jpeg",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\ac367a9a-ad7e-40ba-aee2-6e5d9febbf5f_Basbousa.jpeg",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/ac367a9a-ad7e-40ba-aee2-6e5d9febbf5f_Basbousa.jpeg",
       "AssetKind": "All",
@@ -2886,10 +2867,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\ac367a9a-ad7e-40ba-aee2-6e5d9febbf5f_Basbousa.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\b0b331de-70f6-47c5-a968-b03f52a2839f_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\b0b331de-70f6-47c5-a968-b03f52a2839f_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/b0b331de-70f6-47c5-a968-b03f52a2839f_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "AssetKind": "All",
@@ -2905,10 +2886,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\b0b331de-70f6-47c5-a968-b03f52a2839f_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\bc00dff3-b02a-466a-ba20-1d2b68eca5b8_Stuffed Pigeon.jpeg",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\bc00dff3-b02a-466a-ba20-1d2b68eca5b8_Stuffed Pigeon.jpeg",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/bc00dff3-b02a-466a-ba20-1d2b68eca5b8_Stuffed Pigeon.jpeg",
       "AssetKind": "All",
@@ -2924,10 +2905,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\bc00dff3-b02a-466a-ba20-1d2b68eca5b8_Stuffed Pigeon.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\bc8b4794-9d05-46e4-8fb7-84c3bd053112_Kebda Eskandarani.jpg",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\bc8b4794-9d05-46e4-8fb7-84c3bd053112_Kebda Eskandarani.jpg",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/bc8b4794-9d05-46e4-8fb7-84c3bd053112_Kebda Eskandarani.jpg",
       "AssetKind": "All",
@@ -2943,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\bc8b4794-9d05-46e4-8fb7-84c3bd053112_Kebda Eskandarani.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\bcc28e0a-80e8-4ca6-8ac5-d01314f5833f_Fasolia.jpeg",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\bcc28e0a-80e8-4ca6-8ac5-d01314f5833f_Fasolia.jpeg",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/bcc28e0a-80e8-4ca6-8ac5-d01314f5833f_Fasolia.jpeg",
       "AssetKind": "All",
@@ -2962,10 +2943,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\bcc28e0a-80e8-4ca6-8ac5-d01314f5833f_Fasolia.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\c0775e05-3525-437c-a9e3-bd88edfe20f4_Molokhia.jpg",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\c0775e05-3525-437c-a9e3-bd88edfe20f4_Molokhia.jpg",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/c0775e05-3525-437c-a9e3-bd88edfe20f4_Molokhia.jpg",
       "AssetKind": "All",
@@ -2981,10 +2962,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\c0775e05-3525-437c-a9e3-bd88edfe20f4_Molokhia.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\d6ade111-cff2-4190-9efa-b0e3e8186471_Zalabya.jpg",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\d6ade111-cff2-4190-9efa-b0e3e8186471_Zalabya.jpg",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/d6ade111-cff2-4190-9efa-b0e3e8186471_Zalabya.jpg",
       "AssetKind": "All",
@@ -3000,10 +2981,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\d6ade111-cff2-4190-9efa-b0e3e8186471_Zalabya.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\d73a67e8-f45f-4721-b58d-7f807f70b6ba_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\d73a67e8-f45f-4721-b58d-7f807f70b6ba_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/d73a67e8-f45f-4721-b58d-7f807f70b6ba_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "AssetKind": "All",
@@ -3019,10 +3000,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\d73a67e8-f45f-4721-b58d-7f807f70b6ba_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\d73f3d05-94e2-4c08-8b2c-86e82d8a8b18_th.jpeg",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\d73f3d05-94e2-4c08-8b2c-86e82d8a8b18_th.jpeg",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/d73f3d05-94e2-4c08-8b2c-86e82d8a8b18_th.jpeg",
       "AssetKind": "All",
@@ -3038,10 +3019,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\d73f3d05-94e2-4c08-8b2c-86e82d8a8b18_th.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\e10c3d09-d81d-4b9d-a3e2-9693316b1e87_Freekeh-soup-1.jpg",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\e10c3d09-d81d-4b9d-a3e2-9693316b1e87_Freekeh-soup-1.jpg",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/e10c3d09-d81d-4b9d-a3e2-9693316b1e87_Freekeh-soup-1.jpg",
       "AssetKind": "All",
@@ -3057,10 +3038,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\e10c3d09-d81d-4b9d-a3e2-9693316b1e87_Freekeh-soup-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\e16f28b8-1e16-47fa-ab9f-ac6b98a83953_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\e16f28b8-1e16-47fa-ab9f-ac6b98a83953_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/e16f28b8-1e16-47fa-ab9f-ac6b98a83953_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "AssetKind": "All",
@@ -3076,10 +3057,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\e16f28b8-1e16-47fa-ab9f-ac6b98a83953_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\e2e062aa-209c-4a66-8521-7b1aef4d33f6_chicksuperJumbo.jpg",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\e2e062aa-209c-4a66-8521-7b1aef4d33f6_chicksuperJumbo.jpg",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/e2e062aa-209c-4a66-8521-7b1aef4d33f6_chicksuperJumbo.jpg",
       "AssetKind": "All",
@@ -3095,10 +3076,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\e2e062aa-209c-4a66-8521-7b1aef4d33f6_chicksuperJumbo.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\e3dccbba-9e7b-4c5e-8a77-fff293885d4c_Vegetable Tagine.webp",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\e3dccbba-9e7b-4c5e-8a77-fff293885d4c_Vegetable Tagine.webp",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/e3dccbba-9e7b-4c5e-8a77-fff293885d4c_Vegetable Tagine.webp",
       "AssetKind": "All",
@@ -3114,10 +3095,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\e3dccbba-9e7b-4c5e-8a77-fff293885d4c_Vegetable Tagine.webp"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\e6ffe0c2-5d17-40ce-a6be-a4f95fed3eec_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\e6ffe0c2-5d17-40ce-a6be-a4f95fed3eec_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/e6ffe0c2-5d17-40ce-a6be-a4f95fed3eec_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "AssetKind": "All",
@@ -3133,10 +3114,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\e6ffe0c2-5d17-40ce-a6be-a4f95fed3eec_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\e99c067e-6019-4dc5-8158-423273ec8a02_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\e99c067e-6019-4dc5-8158-423273ec8a02_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/e99c067e-6019-4dc5-8158-423273ec8a02_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "AssetKind": "All",
@@ -3152,10 +3133,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\e99c067e-6019-4dc5-8158-423273ec8a02_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\eaf0bab3-4fd5-4668-bd86-c86c392142dc_th.jpeg",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\eaf0bab3-4fd5-4668-bd86-c86c392142dc_th.jpeg",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/eaf0bab3-4fd5-4668-bd86-c86c392142dc_th.jpeg",
       "AssetKind": "All",
@@ -3171,10 +3152,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\eaf0bab3-4fd5-4668-bd86-c86c392142dc_th.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\f8c51a41-e47c-40a6-8dc9-69ba2217e62c_Baba Ghanoush.jpeg",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\f8c51a41-e47c-40a6-8dc9-69ba2217e62c_Baba Ghanoush.jpeg",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/f8c51a41-e47c-40a6-8dc9-69ba2217e62c_Baba Ghanoush.jpeg",
       "AssetKind": "All",
@@ -3190,10 +3171,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\f8c51a41-e47c-40a6-8dc9-69ba2217e62c_Baba Ghanoush.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\fc505d6d-5a90-409d-be92-177ef195c642_Fried Calamari.jpeg",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\fc505d6d-5a90-409d-be92-177ef195c642_Fried Calamari.jpeg",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/fc505d6d-5a90-409d-be92-177ef195c642_Fried Calamari.jpeg",
       "AssetKind": "All",
@@ -3209,10 +3190,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\fc505d6d-5a90-409d-be92-177ef195c642_Fried Calamari.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\ff774b8b-0d68-47da-a898-33ee0f30c9e5_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\ff774b8b-0d68-47da-a898-33ee0f30c9e5_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/ff774b8b-0d68-47da-a898-33ee0f30c9e5_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "AssetKind": "All",
@@ -3228,10 +3209,29 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\ff774b8b-0d68-47da-a898-33ee0f30c9e5_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\th.jpeg",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\home4.jpg",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
+      "BasePath": "_content/Restaurantopia",
+      "RelativePath": "Images/ItemImage/home4.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\home4.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\th.jpeg",
+      "SourceId": "Restaurantopia",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/ItemImage/th.jpeg",
       "AssetKind": "All",
@@ -3247,10 +3247,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\ItemImage\\th.jpeg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\no-image.webp",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\no-image.webp",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/no-image.webp",
       "AssetKind": "All",
@@ -3266,10 +3266,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\no-image.webp"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\o1.jpg",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\o1.jpg",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/o1.jpg",
       "AssetKind": "All",
@@ -3285,10 +3285,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\o1.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\o2.jpg",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\o2.jpg",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "Images/o2.jpg",
       "AssetKind": "All",
@@ -3304,10 +3304,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\o2.jpg"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\js\\bootstrap.js",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "js/bootstrap.js",
       "AssetKind": "All",
@@ -3323,10 +3323,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\js\\custom.js",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\js\\custom.js",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "js/custom.js",
       "AssetKind": "All",
@@ -3342,10 +3342,10 @@
       "OriginalItemSpec": "wwwroot\\js\\custom.js"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\js\\jquery-3.4.1.min.js",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "js/jquery-3.4.1.min.js",
       "AssetKind": "All",
@@ -3361,10 +3361,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery-3.4.1.min.js"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\js\\site.js",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -3380,10 +3380,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -3399,10 +3399,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -3418,10 +3418,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -3437,10 +3437,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -3456,10 +3456,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -3475,10 +3475,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -3494,10 +3494,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -3513,10 +3513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -3532,10 +3532,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -3551,10 +3551,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -3570,10 +3570,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -3589,10 +3589,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -3608,10 +3608,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -3627,10 +3627,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -3646,10 +3646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -3665,10 +3665,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -3684,10 +3684,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -3703,10 +3703,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -3722,10 +3722,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -3741,10 +3741,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -3760,10 +3760,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -3779,10 +3779,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -3798,10 +3798,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -3817,10 +3817,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -3836,10 +3836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -3855,10 +3855,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -3874,10 +3874,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -3893,10 +3893,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -3912,10 +3912,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -3931,10 +3931,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -3950,10 +3950,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -3969,10 +3969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -3988,10 +3988,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -4007,10 +4007,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -4026,10 +4026,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -4045,10 +4045,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -4064,10 +4064,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -4083,10 +4083,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -4102,10 +4102,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -4121,10 +4121,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -4140,10 +4140,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -4159,10 +4159,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -4178,10 +4178,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -4197,10 +4197,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -4216,10 +4216,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -4235,10 +4235,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -4254,10 +4254,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -4273,10 +4273,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -4292,10 +4292,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -4311,10 +4311,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -4330,10 +4330,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -4349,10 +4349,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -4368,10 +4368,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -4387,10 +4387,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -4406,10 +4406,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -4425,10 +4425,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -4444,10 +4444,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Restaurantopia",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\",
       "BasePath": "_content/Restaurantopia",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

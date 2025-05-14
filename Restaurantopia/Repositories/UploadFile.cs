@@ -1,4 +1,4 @@
-﻿using Restaurantopia.Entities.Models;
+﻿using Restaurantopia.Models;
 using Restaurantopia.InterFaces;
 
 

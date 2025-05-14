@@ -1,0 +1,73 @@
+# Git
+.git
+.gitignore
+.gitattributes
+.github
+
+# Development
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
+.vscode/
+**/bin/
+**/obj/
+**/node_modules/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# Test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# Others
+*.log
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+
+# Visual Studio files
+.vs/
+.vscode/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.dbmdl
+*.dbproj.schemaview
+*.jfm
+*.pfx
+*.publishsettings
+
+# Project specific
+feane-1.0.0/
+
+# Logs and databases
+*.log
+*.sqlite
+*.mdf
+*.ldf
+
+# Environment files
+*.env
+.env.*
+appsettings.*.json
+
+# Other
+[Tt]emp/
+[Tt]mp/
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db 

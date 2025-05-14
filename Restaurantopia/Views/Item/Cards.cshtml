@@ -1,6 +1,7 @@
 ﻿@using Microsoft.AspNetCore.Identity;
+@using Restaurantopia.Models;
 @inject SignInManager<IdentityUser> signInManager;
-@model IEnumerable<Restaurantopia.Entities.Models.Item>
+@model IEnumerable<Item>
 
 @foreach (var item in Model)
 {

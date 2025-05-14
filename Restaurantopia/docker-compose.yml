@@ -1,0 +1,37 @@
+name: restaurantopia
+
+services:
+
+  webapp:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: hajermabrouk/restaurantopia:latest
+    container_name: restaurantopia-app
+    ports:
+      - "8080:80"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ASPNETCORE_URLS=http://+:80
+      - ConnectionStrings__Default=Server=host.docker.internal;Database=Restaurantopia;User Id=NewUser;Password=123;TrustServerCertificate=true;MultipleActiveResultSets=true;
+    volumes:
+      - wwwroot_data:/app/wwwroot
+      
+      - logs_data:/app/logs
+    extra_hosts:
+      
+      - "host.docker.internal:host-gateway"
+    networks:
+      - restaurantopia-network
+    restart: unless-stopped
+
+networks:
+  restaurantopia-network:
+    driver: bridge
+
+volumes:
+  
+  wwwroot_data:
+    driver: local
+  logs_data:
+    driver: local 

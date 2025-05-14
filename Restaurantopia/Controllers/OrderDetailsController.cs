@@ -2,8 +2,8 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using NuGet.Protocol.Core.Types;
-using Restaurantopia.Entities.Models;
 using Restaurantopia.InterFaces;
+using Restaurantopia.Models;
 
 namespace Restaurantopia.Controllers
 {

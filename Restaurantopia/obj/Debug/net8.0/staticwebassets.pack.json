@@ -1,695 +1,695 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Restaurantopia.bundle.scp.css",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Restaurantopia.bundle.scp.css",
       "PackagePath": "staticwebassets\\Restaurantopia.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Fonts\\fontawesome-webfont.ttf",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Fonts\\fontawesome-webfont.ttf",
       "PackagePath": "staticwebassets\\Fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Fonts\\fontawesome-webfont.woff",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Fonts\\fontawesome-webfont.woff",
       "PackagePath": "staticwebassets\\Fonts\\fontawesome-webfont.woff"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Fonts\\fontawesome-webfont.woff2",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Fonts\\fontawesome-webfont.woff2",
       "PackagePath": "staticwebassets\\Fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\00895194-978a-4890-a664-4c923021e116_th.jpeg",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\00895194-978a-4890-a664-4c923021e116_th.jpeg",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\00895194-978a-4890-a664-4c923021e116_th.jpeg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\05ac78d3-2444-4598-a835-6aae09dcbe91_th.jpeg",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\05ac78d3-2444-4598-a835-6aae09dcbe91_th.jpeg",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\05ac78d3-2444-4598-a835-6aae09dcbe91_th.jpeg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\07032870-28ca-488c-8200-d53427334f83_Konafa.jpeg",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\07032870-28ca-488c-8200-d53427334f83_Konafa.jpeg",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\07032870-28ca-488c-8200-d53427334f83_Konafa.jpeg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\0a27b9db-636b-42ae-a3e5-058f5224e300_th.jpeg",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\0a27b9db-636b-42ae-a3e5-058f5224e300_th.jpeg",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\0a27b9db-636b-42ae-a3e5-058f5224e300_th.jpeg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\0ee1dd37-a43c-4dce-baca-34d6189ad36d_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\0ee1dd37-a43c-4dce-baca-34d6189ad36d_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\0ee1dd37-a43c-4dce-baca-34d6189ad36d_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\19a64dd2-05a4-414a-8443-a60292643fd7_th.jpeg",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\19a64dd2-05a4-414a-8443-a60292643fd7_th.jpeg",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\19a64dd2-05a4-414a-8443-a60292643fd7_th.jpeg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\1a2ba7e3-07f8-477c-b7f6-879d563cda76_Foul Medames.jpeg",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\1a2ba7e3-07f8-477c-b7f6-879d563cda76_Foul Medames.jpeg",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\1a2ba7e3-07f8-477c-b7f6-879d563cda76_Foul Medames.jpeg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\1d2e8bbb-f850-497a-97a5-87fbf680fe99_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\1d2e8bbb-f850-497a-97a5-87fbf680fe99_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\1d2e8bbb-f850-497a-97a5-87fbf680fe99_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\20957de1-18e1-4ed7-900d-97032b2b6f59_Fasolia.jpeg",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\20957de1-18e1-4ed7-900d-97032b2b6f59_Fasolia.jpeg",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\20957de1-18e1-4ed7-900d-97032b2b6f59_Fasolia.jpeg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\212e7eee-9660-4e34-90cc-0e36c599b818_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\212e7eee-9660-4e34-90cc-0e36c599b818_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\212e7eee-9660-4e34-90cc-0e36c599b818_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\2658136f-e44f-45f9-8cf3-f4960f664c71_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\2658136f-e44f-45f9-8cf3-f4960f664c71_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\2658136f-e44f-45f9-8cf3-f4960f664c71_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\295021f9-7e17-4f13-b7cc-331e12a133fe_Baklava.jpeg",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\295021f9-7e17-4f13-b7cc-331e12a133fe_Baklava.jpeg",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\295021f9-7e17-4f13-b7cc-331e12a133fe_Baklava.jpeg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\30159a61-ee29-4c0e-8801-9562af891632_Besarah.webp",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\30159a61-ee29-4c0e-8801-9562af891632_Besarah.webp",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\30159a61-ee29-4c0e-8801-9562af891632_Besarah.webp"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\30c17420-aca5-4d52-87f4-d84ca559b5a2_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\30c17420-aca5-4d52-87f4-d84ca559b5a2_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\30c17420-aca5-4d52-87f4-d84ca559b5a2_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\351a6515-e26b-40ad-9675-21aa608ef544_th.jpeg",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\351a6515-e26b-40ad-9675-21aa608ef544_th.jpeg",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\351a6515-e26b-40ad-9675-21aa608ef544_th.jpeg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\36fe1fd6-bfc6-4c6b-af63-5407c2247171_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\36fe1fd6-bfc6-4c6b-af63-5407c2247171_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\36fe1fd6-bfc6-4c6b-af63-5407c2247171_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\3a3cdecf-069d-4da7-8aa8-3a53ace91a21_Basbousa.jpeg",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\3a3cdecf-069d-4da7-8aa8-3a53ace91a21_Basbousa.jpeg",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\3a3cdecf-069d-4da7-8aa8-3a53ace91a21_Basbousa.jpeg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\3d37d317-fd9a-4168-9a0b-59153a49e2c0_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\3d37d317-fd9a-4168-9a0b-59153a49e2c0_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\3d37d317-fd9a-4168-9a0b-59153a49e2c0_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\3e69464e-73ec-4a29-9057-86f8331cdbea_Mint Tea.jpeg",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\3e69464e-73ec-4a29-9057-86f8331cdbea_Mint Tea.jpeg",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\3e69464e-73ec-4a29-9057-86f8331cdbea_Mint Tea.jpeg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\3f540863-0361-45ba-a44c-30ec5241201a_Fattah.jpeg",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\3f540863-0361-45ba-a44c-30ec5241201a_Fattah.jpeg",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\3f540863-0361-45ba-a44c-30ec5241201a_Fattah.jpeg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\40ef801b-54b3-40e9-9169-ea7fc1299ce5_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\40ef801b-54b3-40e9-9169-ea7fc1299ce5_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\40ef801b-54b3-40e9-9169-ea7fc1299ce5_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\48307ce1-1781-49d9-acc7-513d49039744_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\48307ce1-1781-49d9-acc7-513d49039744_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\48307ce1-1781-49d9-acc7-513d49039744_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\4c6e9065-4a86-485b-a240-eadff7460ccf_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\4c6e9065-4a86-485b-a240-eadff7460ccf_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\4c6e9065-4a86-485b-a240-eadff7460ccf_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\4dc31fe2-a246-4240-b19d-0424e25bb1b9_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\4dc31fe2-a246-4240-b19d-0424e25bb1b9_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\4dc31fe2-a246-4240-b19d-0424e25bb1b9_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\4de95a63-e321-4cf5-b23a-9056581423d7_shawarma (1).jpg",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\4de95a63-e321-4cf5-b23a-9056581423d7_shawarma (1).jpg",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\4de95a63-e321-4cf5-b23a-9056581423d7_shawarma (1).jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\4ffd281c-b5d0-4512-b208-2a046b95af73_lentil-soup.jpg",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\4ffd281c-b5d0-4512-b208-2a046b95af73_lentil-soup.jpg",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\4ffd281c-b5d0-4512-b208-2a046b95af73_lentil-soup.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\50258650-2ec8-4476-a424-57897bab7041_Grilled Shrimp.jpeg",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\50258650-2ec8-4476-a424-57897bab7041_Grilled Shrimp.jpeg",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\50258650-2ec8-4476-a424-57897bab7041_Grilled Shrimp.jpeg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\5046ca53-3be7-4317-a782-0cda5b036b34_th.jpeg",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\5046ca53-3be7-4317-a782-0cda5b036b34_th.jpeg",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\5046ca53-3be7-4317-a782-0cda5b036b34_th.jpeg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\52f96ad4-c9e9-43ac-bb7c-7d43339595af_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\52f96ad4-c9e9-43ac-bb7c-7d43339595af_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\52f96ad4-c9e9-43ac-bb7c-7d43339595af_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\556a040b-697e-44da-9ded-4479d95d1141_th.jpeg",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\556a040b-697e-44da-9ded-4479d95d1141_th.jpeg",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\556a040b-697e-44da-9ded-4479d95d1141_th.jpeg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\5a7465a1-8c7a-4f68-b799-50b1abcbc6d0_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\5a7465a1-8c7a-4f68-b799-50b1abcbc6d0_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\5a7465a1-8c7a-4f68-b799-50b1abcbc6d0_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\5b26d48c-ba04-4bd9-b5bf-1815824e3814_Om Ali.jpeg",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\5b26d48c-ba04-4bd9-b5bf-1815824e3814_Om Ali.jpeg",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\5b26d48c-ba04-4bd9-b5bf-1815824e3814_Om Ali.jpeg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\602e7180-b12d-4032-956c-21ccd53c5ea9_Grilled Kofta .jpeg",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\602e7180-b12d-4032-956c-21ccd53c5ea9_Grilled Kofta .jpeg",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\602e7180-b12d-4032-956c-21ccd53c5ea9_Grilled Kofta .jpeg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\69b45a0c-6d01-4ecd-a510-166f35ff7b75_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\69b45a0c-6d01-4ecd-a510-166f35ff7b75_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\69b45a0c-6d01-4ecd-a510-166f35ff7b75_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\760233ec-7ad5-4a03-aaa4-a92e74593c3d_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\760233ec-7ad5-4a03-aaa4-a92e74593c3d_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\760233ec-7ad5-4a03-aaa4-a92e74593c3d_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\77067de4-61fd-42b2-a63d-7019f47f9af3_Koshari.jpg",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\77067de4-61fd-42b2-a63d-7019f47f9af3_Koshari.jpg",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\77067de4-61fd-42b2-a63d-7019f47f9af3_Koshari.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\77870767-6fbc-497b-badc-bf72a3edb270_-Coffee.jpg",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\77870767-6fbc-497b-badc-bf72a3edb270_-Coffee.jpg",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\77870767-6fbc-497b-badc-bf72a3edb270_-Coffee.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\7b46c8ac-7952-41f2-9f49-3a5de94250c8_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\7b46c8ac-7952-41f2-9f49-3a5de94250c8_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\7b46c8ac-7952-41f2-9f49-3a5de94250c8_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\7c751e84-3509-4f51-b038-580895d04bae_th.jpeg",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\7c751e84-3509-4f51-b038-580895d04bae_th.jpeg",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\7c751e84-3509-4f51-b038-580895d04bae_th.jpeg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\7e60bb7b-0813-401b-a4fa-d7210bd34e4f_Sayadeya (Fish with Rice).jpeg",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\7e60bb7b-0813-401b-a4fa-d7210bd34e4f_Sayadeya (Fish with Rice).jpeg",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\7e60bb7b-0813-401b-a4fa-d7210bd34e4f_Sayadeya (Fish with Rice).jpeg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\8490e7d6-89e9-4304-b2c2-41008f9901ee_sahlab-3.jpg",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\8490e7d6-89e9-4304-b2c2-41008f9901ee_sahlab-3.jpg",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\8490e7d6-89e9-4304-b2c2-41008f9901ee_sahlab-3.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\84d0ac23-d915-4a1f-abee-28e34808aa5e_Falafel-Balls.jpg",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\84d0ac23-d915-4a1f-abee-28e34808aa5e_Falafel-Balls.jpg",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\84d0ac23-d915-4a1f-abee-28e34808aa5e_Falafel-Balls.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\881556bb-e9b6-4d21-a7de-ffcb190ad604_th.jpeg",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\881556bb-e9b6-4d21-a7de-ffcb190ad604_th.jpeg",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\881556bb-e9b6-4d21-a7de-ffcb190ad604_th.jpeg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\8a6d7458-be45-4615-aa35-ada0b3197862_Sea Bass.jpg",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\8a6d7458-be45-4615-aa35-ada0b3197862_Sea Bass.jpg",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\8a6d7458-be45-4615-aa35-ada0b3197862_Sea Bass.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\8d271671-c5ce-4f56-980b-3ec5328eac45_seafood-soup-close-up-10.webp",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\8d271671-c5ce-4f56-980b-3ec5328eac45_seafood-soup-close-up-10.webp",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\8d271671-c5ce-4f56-980b-3ec5328eac45_seafood-soup-close-up-10.webp"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\8ee1354e-e54e-45eb-9448-7d5bde745db2_Qamar al-Din.jpeg",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\8ee1354e-e54e-45eb-9448-7d5bde745db2_Qamar al-Din.jpeg",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\8ee1354e-e54e-45eb-9448-7d5bde745db2_Qamar al-Din.jpeg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\90e9ca77-4c0a-4d94-8ed5-624fe560d544_Hummus-11.jpg",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\90e9ca77-4c0a-4d94-8ed5-624fe560d544_Hummus-11.jpg",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\90e9ca77-4c0a-4d94-8ed5-624fe560d544_Hummus-11.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\9245bf22-26fe-4cda-9be0-4eb7791d91fb_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\9245bf22-26fe-4cda-9be0-4eb7791d91fb_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\9245bf22-26fe-4cda-9be0-4eb7791d91fb_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\925124b3-a73a-4cd6-9e41-576020559c36_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\925124b3-a73a-4cd6-9e41-576020559c36_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\925124b3-a73a-4cd6-9e41-576020559c36_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\9511e2cf-d7a8-48b1-9bb5-85346e50fcff_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\9511e2cf-d7a8-48b1-9bb5-85346e50fcff_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\9511e2cf-d7a8-48b1-9bb5-85346e50fcff_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\954cd70e-748b-4059-82d4-e5047898f208_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\954cd70e-748b-4059-82d4-e5047898f208_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\954cd70e-748b-4059-82d4-e5047898f208_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\95688947-2e8b-4257-a255-e9e4e083dbf1_th.jpeg",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\95688947-2e8b-4257-a255-e9e4e083dbf1_th.jpeg",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\95688947-2e8b-4257-a255-e9e4e083dbf1_th.jpeg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\957876fa-6c64-4a2f-a2b0-5fb7220b4f25_Karkade.jpeg",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\957876fa-6c64-4a2f-a2b0-5fb7220b4f25_Karkade.jpeg",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\957876fa-6c64-4a2f-a2b0-5fb7220b4f25_Karkade.jpeg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\a00b8032-95aa-4253-93a4-249c7e4c0468_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\a00b8032-95aa-4253-93a4-249c7e4c0468_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\a00b8032-95aa-4253-93a4-249c7e4c0468_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\a1cda752-9bd1-42e1-b8e9-0fc4acb11151_th.jpeg",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\a1cda752-9bd1-42e1-b8e9-0fc4acb11151_th.jpeg",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\a1cda752-9bd1-42e1-b8e9-0fc4acb11151_th.jpeg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\a416fad9-7f64-42d2-abf1-22649ab97ded_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\a416fad9-7f64-42d2-abf1-22649ab97ded_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\a416fad9-7f64-42d2-abf1-22649ab97ded_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\a6e50b31-57b7-44c7-9fa7-d036cf354ccf_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\a6e50b31-57b7-44c7-9fa7-d036cf354ccf_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\a6e50b31-57b7-44c7-9fa7-d036cf354ccf_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\a958e5ac-4cae-41e0-ba38-12a538ea9e57_ECPC.jpg",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\a958e5ac-4cae-41e0-ba38-12a538ea9e57_ECPC.jpg",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\a958e5ac-4cae-41e0-ba38-12a538ea9e57_ECPC.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\a9f07486-1c60-4ddc-ba9a-443a6467f468_red tea.jpeg",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\a9f07486-1c60-4ddc-ba9a-443a6467f468_red tea.jpeg",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\a9f07486-1c60-4ddc-ba9a-443a6467f468_red tea.jpeg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\ac367a9a-ad7e-40ba-aee2-6e5d9febbf5f_Basbousa.jpeg",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\ac367a9a-ad7e-40ba-aee2-6e5d9febbf5f_Basbousa.jpeg",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\ac367a9a-ad7e-40ba-aee2-6e5d9febbf5f_Basbousa.jpeg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\b0b331de-70f6-47c5-a968-b03f52a2839f_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\b0b331de-70f6-47c5-a968-b03f52a2839f_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\b0b331de-70f6-47c5-a968-b03f52a2839f_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\bc00dff3-b02a-466a-ba20-1d2b68eca5b8_Stuffed Pigeon.jpeg",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\bc00dff3-b02a-466a-ba20-1d2b68eca5b8_Stuffed Pigeon.jpeg",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\bc00dff3-b02a-466a-ba20-1d2b68eca5b8_Stuffed Pigeon.jpeg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\bc8b4794-9d05-46e4-8fb7-84c3bd053112_Kebda Eskandarani.jpg",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\bc8b4794-9d05-46e4-8fb7-84c3bd053112_Kebda Eskandarani.jpg",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\bc8b4794-9d05-46e4-8fb7-84c3bd053112_Kebda Eskandarani.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\bcc28e0a-80e8-4ca6-8ac5-d01314f5833f_Fasolia.jpeg",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\bcc28e0a-80e8-4ca6-8ac5-d01314f5833f_Fasolia.jpeg",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\bcc28e0a-80e8-4ca6-8ac5-d01314f5833f_Fasolia.jpeg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\c0775e05-3525-437c-a9e3-bd88edfe20f4_Molokhia.jpg",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\c0775e05-3525-437c-a9e3-bd88edfe20f4_Molokhia.jpg",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\c0775e05-3525-437c-a9e3-bd88edfe20f4_Molokhia.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\d6ade111-cff2-4190-9efa-b0e3e8186471_Zalabya.jpg",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\d6ade111-cff2-4190-9efa-b0e3e8186471_Zalabya.jpg",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\d6ade111-cff2-4190-9efa-b0e3e8186471_Zalabya.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\d73a67e8-f45f-4721-b58d-7f807f70b6ba_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\d73a67e8-f45f-4721-b58d-7f807f70b6ba_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\d73a67e8-f45f-4721-b58d-7f807f70b6ba_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\d73f3d05-94e2-4c08-8b2c-86e82d8a8b18_th.jpeg",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\d73f3d05-94e2-4c08-8b2c-86e82d8a8b18_th.jpeg",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\d73f3d05-94e2-4c08-8b2c-86e82d8a8b18_th.jpeg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\e10c3d09-d81d-4b9d-a3e2-9693316b1e87_Freekeh-soup-1.jpg",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\e10c3d09-d81d-4b9d-a3e2-9693316b1e87_Freekeh-soup-1.jpg",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\e10c3d09-d81d-4b9d-a3e2-9693316b1e87_Freekeh-soup-1.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\e16f28b8-1e16-47fa-ab9f-ac6b98a83953_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\e16f28b8-1e16-47fa-ab9f-ac6b98a83953_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\e16f28b8-1e16-47fa-ab9f-ac6b98a83953_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\e2e062aa-209c-4a66-8521-7b1aef4d33f6_chicksuperJumbo.jpg",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\e2e062aa-209c-4a66-8521-7b1aef4d33f6_chicksuperJumbo.jpg",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\e2e062aa-209c-4a66-8521-7b1aef4d33f6_chicksuperJumbo.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\e3dccbba-9e7b-4c5e-8a77-fff293885d4c_Vegetable Tagine.webp",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\e3dccbba-9e7b-4c5e-8a77-fff293885d4c_Vegetable Tagine.webp",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\e3dccbba-9e7b-4c5e-8a77-fff293885d4c_Vegetable Tagine.webp"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\e6ffe0c2-5d17-40ce-a6be-a4f95fed3eec_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\e6ffe0c2-5d17-40ce-a6be-a4f95fed3eec_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\e6ffe0c2-5d17-40ce-a6be-a4f95fed3eec_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\e99c067e-6019-4dc5-8158-423273ec8a02_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\e99c067e-6019-4dc5-8158-423273ec8a02_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\e99c067e-6019-4dc5-8158-423273ec8a02_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\eaf0bab3-4fd5-4668-bd86-c86c392142dc_th.jpeg",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\eaf0bab3-4fd5-4668-bd86-c86c392142dc_th.jpeg",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\eaf0bab3-4fd5-4668-bd86-c86c392142dc_th.jpeg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\f8c51a41-e47c-40a6-8dc9-69ba2217e62c_Baba Ghanoush.jpeg",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\f8c51a41-e47c-40a6-8dc9-69ba2217e62c_Baba Ghanoush.jpeg",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\f8c51a41-e47c-40a6-8dc9-69ba2217e62c_Baba Ghanoush.jpeg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\fc505d6d-5a90-409d-be92-177ef195c642_Fried Calamari.jpeg",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\fc505d6d-5a90-409d-be92-177ef195c642_Fried Calamari.jpeg",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\fc505d6d-5a90-409d-be92-177ef195c642_Fried Calamari.jpeg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\ff774b8b-0d68-47da-a898-33ee0f30c9e5_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\ff774b8b-0d68-47da-a898-33ee0f30c9e5_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\ff774b8b-0d68-47da-a898-33ee0f30c9e5_8e4e1023-16d6-4b5d-98d6-5877ceb7c83f.webp"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\ItemImage\\th.jpeg",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\home4.jpg",
+      "PackagePath": "staticwebassets\\Images\\ItemImage\\home4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\ItemImage\\th.jpeg",
       "PackagePath": "staticwebassets\\Images\\ItemImage\\th.jpeg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\about-img.png",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\about-img.png",
       "PackagePath": "staticwebassets\\Images\\about-img.png"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\about.jpeg",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\about.jpeg",
       "PackagePath": "staticwebassets\\Images\\about.jpeg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\client1.jpg",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\client1.jpg",
       "PackagePath": "staticwebassets\\Images\\client1.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\client2.jpg",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\client2.jpg",
       "PackagePath": "staticwebassets\\Images\\client2.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\f1.png",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\f1.png",
       "PackagePath": "staticwebassets\\Images\\f1.png"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\f2.png",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\f2.png",
       "PackagePath": "staticwebassets\\Images\\f2.png"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\f3.png",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\f3.png",
       "PackagePath": "staticwebassets\\Images\\f3.png"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\f4.png",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\f4.png",
       "PackagePath": "staticwebassets\\Images\\f4.png"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\f5.png",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\f5.png",
       "PackagePath": "staticwebassets\\Images\\f5.png"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\f6.png",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\f6.png",
       "PackagePath": "staticwebassets\\Images\\f6.png"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\f7.png",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\f7.png",
       "PackagePath": "staticwebassets\\Images\\f7.png"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\f8.png",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\f8.png",
       "PackagePath": "staticwebassets\\Images\\f8.png"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\f9.png",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\f9.png",
       "PackagePath": "staticwebassets\\Images\\f9.png"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\favicon.png",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\favicon.png",
       "PackagePath": "staticwebassets\\Images\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\hero-bg.jpg",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\hero-bg.jpg",
       "PackagePath": "staticwebassets\\Images\\hero-bg.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\home.webp",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\home.webp",
       "PackagePath": "staticwebassets\\Images\\home.webp"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\home4.jpg",
-      "PackagePath": "staticwebassets\\Images\\home4.jpg"
-    },
-    {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\no-image.webp",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\no-image.webp",
       "PackagePath": "staticwebassets\\Images\\no-image.webp"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\o1.jpg",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\o1.jpg",
       "PackagePath": "staticwebassets\\Images\\o1.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\Images\\o2.jpg",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\Images\\o2.jpg",
       "PackagePath": "staticwebassets\\Images\\o2.jpg"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\css\\bootstrap.css",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\css\\font-awesome.min.css",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\css\\font-awesome.min.css",
       "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\css\\responsive.css",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\css\\responsive.css",
       "PackagePath": "staticwebassets\\css\\responsive.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\css\\style.css",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\css\\style.css",
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\css\\style.css.map",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\css\\style.css.map",
       "PackagePath": "staticwebassets\\css\\style.css.map"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\css\\style.scss",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\css\\style.scss",
       "PackagePath": "staticwebassets\\css\\style.scss"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\js\\bootstrap.js",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\js\\custom.js",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\js\\custom.js",
       "PackagePath": "staticwebassets\\js\\custom.js"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\js\\jquery-3.4.1.min.js",
       "PackagePath": "staticwebassets\\js\\jquery-3.4.1.min.js"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\user\\source\\repos\\Restaurantopia\\Restaurantopia\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\user\\Source\\Repos\\Resturant1\\Restaurantopia\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

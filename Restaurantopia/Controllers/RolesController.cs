@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Newtonsoft.Json;
-using Restaurantopia.Entities.Models;
+using Restaurantopia.Models;
 
 
 namespace Restaurantopia.Controllers

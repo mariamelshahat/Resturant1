@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Restaurantopia.Entities.Models;
 using Restaurantopia.InterFaces;
+using Restaurantopia.Models;
 
 namespace Restaurantopia.Controllers
 {
